@@ -65,7 +65,7 @@
     },
     {
       "id": "waled_mahsas_1",
-      "name": "وليد محساس",
+      "name": "وليد محساس (أذان 1)",
       "en_name": "Waled Mahsas 1",
       "category": "الجزائر",
       "is_fajr": false,
@@ -75,7 +75,7 @@
     },
     {
       "id": "waled_mahsas_2_algeria",
-      "name": "وليد محساس",
+      "name": "وليد محساس (أذان 2 - الجزائر)",
       "en_name": "Waled Mahsas 2 - Algeria",
       "category": "الجزائر",
       "is_fajr": false,
@@ -335,7 +335,7 @@
     },
     {
       "id": "nasser_al_qatami_1_saudi_arabia",
-      "name": "ناصر القطامي",
+      "name": "ناصر القطامي (أذان 1)",
       "en_name": "Nasser Al Qatami 1 - Saudi Arabia",
       "category": "السعودية",
       "is_fajr": false,
@@ -345,7 +345,7 @@
     },
     {
       "id": "nasser_al_qatami_2_riyadh",
-      "name": "ناصر القطامي",
+      "name": "ناصر القطامي (أذان 2 - الرياض)",
       "en_name": "Nasser Al Qatami 2 - Riyadh",
       "category": "السعودية",
       "is_fajr": false,

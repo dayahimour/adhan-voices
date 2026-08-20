@@ -1,0 +1,2315 @@
+{
+  "total": 231,
+  "voices": [
+    {
+      "id": "abd_alrazaq_saleh_lebanon",
+      "name": "عبد الرزاق صالح - لبنان",
+      "en_name": "Abd Alrazaq Saleh - Lebanon",
+      "category": "لبنان",
+      "is_fajr": false,
+      "size_kb": 490,
+      "filename": "Abd_Alrazaq_Saleh_-_Lebanon_(عبد_الرزاق_صالح_-_لبنان).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abd_Alrazaq_Saleh_-_Lebanon_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%82_%D8%B5%D8%A7%D9%84%D8%AD_-_%D9%84%D8%A8%D9%86%D8%A7%D9%86%29.mp3"
+    },
+    {
+      "id": "abdel_moneim_abdel_mobdi",
+      "name": "عبد المنعم عبد المبدي",
+      "en_name": "Abdel Moneim Abdel Mobdi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 695,
+      "filename": "Abdel_Moneim_Abdel_Mobdi_(عبد_المنعم_عبد_المبدي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdel_Moneim_Abdel_Mobdi_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D9%86%D8%B9%D9%85_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%A8%D8%AF%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdu_al_karem_jabare",
+      "name": "عبد الكريم جابري",
+      "en_name": "Abdu Al Karem Jabare",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1597,
+      "filename": "Abdu_Al_Karem_Jabare_(عبد_الكريم_جابري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdu_Al_Karem_Jabare_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_%D8%AC%D8%A7%D8%A8%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_majid_al_surehi_1",
+      "name": "عبدالمجيد السريحي",
+      "en_name": "Abdul Majid Al Surehi 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 810,
+      "filename": "Abdul_Majid_Al_Surehi_1_(عبدالمجيد_السريحي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Majid_Al_Surehi_1_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%AD%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_majid_al_surehi_2",
+      "name": "عبدالمجيد السريحي",
+      "en_name": "Abdul Majid Al Surehi 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 526,
+      "filename": "Abdul_Majid_Al_Surehi_2_(عبدالمجيد_السريحي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Majid_Al_Surehi_2_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%AD%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_majid_al_surehi_3",
+      "name": "عبدالمجيد السريحي",
+      "en_name": "Abdul Majid Al Surehi 3",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3294,
+      "filename": "Abdul_Majid_Al_Surehi_3_(عبدالمجيد_السريحي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Majid_Al_Surehi_3_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%AD%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_rahman_al_arake_1",
+      "name": "عبدالرحمن العراقي",
+      "en_name": "Abdul Rahman Al Arake 1",
+      "category": "العراق",
+      "is_fajr": false,
+      "size_kb": 3253,
+      "filename": "Abdul_Rahman_Al_Arake_1_(عبدالرحمن_العراقي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Rahman_Al_Arake_1_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_rahman_al_arake_2",
+      "name": "عبدالرحمن العراقي",
+      "en_name": "Abdul Rahman Al Arake 2",
+      "category": "العراق",
+      "is_fajr": false,
+      "size_kb": 3745,
+      "filename": "Abdul_Rahman_Al_Arake_2_(عبدالرحمن_العراقي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Rahman_Al_Arake_2_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_rahman_al_arake_3",
+      "name": "عبدالرحمن العراقي",
+      "en_name": "Abdul Rahman Al Arake 3",
+      "category": "العراق",
+      "is_fajr": false,
+      "size_kb": 4412,
+      "filename": "Abdul_Rahman_Al_Arake_3_(عبدالرحمن_العراقي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Rahman_Al_Arake_3_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdul_rahman_kassab_1",
+      "name": "عبدالرحمن كساب",
+      "en_name": "Abdul Rahman Kassab 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2294,
+      "filename": "Abdul_Rahman_Kassab_1_(عبدالرحمن_كساب).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Rahman_Kassab_1_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D9%83%D8%B3%D8%A7%D8%A8%29.mp3"
+    },
+    {
+      "id": "abdul_rahman_kassab_2",
+      "name": "عبدالرحمن كساب",
+      "en_name": "Abdul Rahman Kassab 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6477,
+      "filename": "Abdul_Rahman_Kassab_2_(عبدالرحمن_كساب).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Rahman_Kassab_2_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D9%83%D8%B3%D8%A7%D8%A8%29.mp3"
+    },
+    {
+      "id": "abdul_rahman_majde",
+      "name": "عبدالرحمن ماجد",
+      "en_name": "Abdul Rahman Majde",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6412,
+      "filename": "Abdul_Rahman_Majde_(عبدالرحمن_ماجد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Rahman_Majde_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D9%85%D8%A7%D8%AC%D8%AF%29.mp3"
+    },
+    {
+      "id": "abdul_wali_al_arkani",
+      "name": "عبدالولي الأركاني",
+      "en_name": "Abdul Wali Al Arkani",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2480,
+      "filename": "Abdul_Wali_Al_Arkani_(عبدالولي_الأركاني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdul_Wali_Al_Arkani_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%A3%D8%B1%D9%83%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdulah_al_dahbe_egypt",
+      "name": "عبدالله الذهبي - مصر",
+      "en_name": "Abdulah Al Dahbe - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 4250,
+      "filename": "Abdulah_Al_Dahbe_-_Egypt_(عبدالله_الذهبي_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulah_Al_Dahbe_-_Egypt_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abdulah_al_maknawe",
+      "name": "عبدالله المكناوي",
+      "en_name": "Abdulah Al Maknawe",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5439,
+      "filename": "Abdulah_Al_Maknawe_(عبدالله_المكناوي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulah_Al_Maknawe_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%85%D9%83%D9%86%D8%A7%D9%88%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdulah_al_sabaawe",
+      "name": "عبدالله الصباوي",
+      "en_name": "Abdulah Al Sabaawe",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2924,
+      "filename": "Abdulah_Al_Sabaawe_(عبدالله_الصباوي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulah_Al_Sabaawe_%28%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D9%88%D9%8A%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_1_egypt",
+      "name": "عبد الباسط عبد الصمد - مصر",
+      "en_name": "Abdulbasit Abdusamad 1 - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 478,
+      "filename": "Abdulbasit_Abdusamad_1_-_Egypt_(عبد_الباسط_عبد_الصمد_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_1_-_Egypt_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_2_egypt",
+      "name": "عبد الباسط عبد الصمد - مصر",
+      "en_name": "Abdulbasit Abdusamad 2 - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 483,
+      "filename": "Abdulbasit_Abdusamad_2_-_Egypt_(عبد_الباسط_عبد_الصمد_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_2_-_Egypt_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_3_egypt",
+      "name": "عبد الباسط عبد الصمد - مصر",
+      "en_name": "Abdulbasit Abdusamad 3 - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 4391,
+      "filename": "Abdulbasit_Abdusamad_3_-_Egypt_(عبد_الباسط_عبد_الصمد_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_3_-_Egypt_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_4_egypt",
+      "name": "عبد الباسط عبد الصمد - مصر",
+      "en_name": "Abdulbasit Abdusamad 4 - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 4433,
+      "filename": "Abdulbasit_Abdusamad_4_-_Egypt_(عبد_الباسط_عبد_الصمد_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_4_-_Egypt_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_5_cairo",
+      "name": "عبد الباسط عبد الصمد - القاهرة",
+      "en_name": "Abdulbasit Abdusamad 5 - Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 396,
+      "filename": "Abdulbasit_Abdusamad_5_-_Cairo_(عبد_الباسط_عبد_الصمد_-_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_5_-_Cairo_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_6_fajr_egypt",
+      "name": "عبد الباسط عبد الصمد - فجر مصر",
+      "en_name": "Abdulbasit Abdusamad 6 - Fajr Egypt",
+      "category": "مصر",
+      "is_fajr": true,
+      "size_kb": 11469,
+      "filename": "Abdulbasit_Abdusamad_6_-_Fajr_Egypt_(عبد_الباسط_عبد_الصمد_-_فجر_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_6_-_Fajr_Egypt_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D9%81%D8%AC%D8%B1_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abdulbasit_abdusamad_7_fajr_egypt",
+      "name": "عبد الباسط عبد الصمد - فجر مصر",
+      "en_name": "Abdulbasit Abdusamad 7 - Fajr Egypt",
+      "category": "مصر",
+      "is_fajr": true,
+      "size_kb": 3023,
+      "filename": "Abdulbasit_Abdusamad_7_-_Fajr_Egypt_(عبد_الباسط_عبد_الصمد_-_فجر_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abdulbasit_Abdusamad_7_-_Fajr_Egypt_%28%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B5%D9%85%D8%AF_-_%D9%81%D8%AC%D8%B1_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "abul_ainain_shuaisha_cairo",
+      "name": "أبو العينين شعيشع - القاهرة",
+      "en_name": "Abul Ainain Shuaisha - Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 466,
+      "filename": "Abul_Ainain_Shuaisha_-_Cairo_(أبو_العينين_شعيشع_-_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Abul_Ainain_Shuaisha_-_Cairo_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%B9%D9%8A%D9%86%D9%8A%D9%86_%D8%B4%D8%B9%D9%8A%D8%B4%D8%B9_-_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "aby_yasser_al_jazaire",
+      "name": "أبو ياسر الجزائري",
+      "en_name": "Aby Yasser Al Jazaire",
+      "category": "الجزائر",
+      "is_fajr": false,
+      "size_kb": 2074,
+      "filename": "Aby_Yasser_Al_Jazaire_(أبو_ياسر_الجزائري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Aby_Yasser_Al_Jazaire_%28%D8%A3%D8%A8%D9%88_%D9%8A%D8%A7%D8%B3%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "adal_malek_abdulah_al_massre",
+      "name": "عادل مالك عبدالله المصري",
+      "en_name": "Adal Malek Abdulah Al Massre",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 3779,
+      "filename": "Adal_Malek_Abdulah_Al_Massre_(عادل_مالك_عبدالله_المصري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adal_Malek_Abdulah_Al_Massre_%28%D8%B9%D8%A7%D8%AF%D9%84_%D9%85%D8%A7%D9%84%D9%83_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "adam_abu_sakhra",
+      "name": "آدم أبو سخرة",
+      "en_name": "Adam Abu Sakhra",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1696,
+      "filename": "Adam_Abu_Sakhra_(آدم_أبو_سخرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adam_Abu_Sakhra_%28%D8%A2%D8%AF%D9%85_%D8%A3%D8%A8%D9%88_%D8%B3%D8%AE%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "adham_al_sharqawe",
+      "name": "أدهم الشرقاوي",
+      "en_name": "Adham Al Sharqawe",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6013,
+      "filename": "Adham_Al_Sharqawe_(أدهم_الشرقاوي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adham_Al_Sharqawe_%28%D8%A3%D8%AF%D9%87%D9%85_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D8%A7%D9%88%D9%8A%29.mp3"
+    },
+    {
+      "id": "adhan_ajman_uae",
+      "name": "أذان عجمان الإمارات",
+      "en_name": "Adhan Ajman UAE",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 277,
+      "filename": "Adhan_Ajman_UAE_(أذان_عجمان_الإمارات).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Ajman_UAE_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%B9%D8%AC%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%29.mp3"
+    },
+    {
+      "id": "adhan_al_aqsa_jerusalem",
+      "name": "أذان المسجد الأقصى - القدس",
+      "en_name": "Adhan Al Aqsa - Jerusalem",
+      "category": "القدس الشريف",
+      "is_fajr": false,
+      "size_kb": 300,
+      "filename": "Adhan_Al_Aqsa_-_Jerusalem_(أذان_المسجد_الأقصى_-_القدس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Al_Aqsa_-_Jerusalem_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89_-_%D8%A7%D9%84%D9%82%D8%AF%D8%B3%29.mp3"
+    },
+    {
+      "id": "adhan_al_haram_al_madani_al_madinah_1",
+      "name": "أذان الحرم المدني - المدينة المنورة",
+      "en_name": "Adhan Al Haram Al Madani - Al Madinah 1",
+      "category": "المدينة المنورة",
+      "is_fajr": false,
+      "size_kb": 371,
+      "filename": "Adhan_Al_Haram_Al_Madani_-_Al_Madinah_1_(أذان_الحرم_المدني_-_المدينة_المنورة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Al_Haram_Al_Madani_-_Al_Madinah_1_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A_-_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "adhan_al_haram_al_madani_al_madinah_2",
+      "name": "أذان الحرم المدني - المدينة المنورة",
+      "en_name": "Adhan Al Haram Al Madani - Al Madinah 2",
+      "category": "المدينة المنورة",
+      "is_fajr": false,
+      "size_kb": 464,
+      "filename": "Adhan_Al_Haram_Al_Madani_-_Al_Madinah_2_(أذان_الحرم_المدني_-_المدينة_المنورة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Al_Haram_Al_Madani_-_Al_Madinah_2_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A_-_%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D9%88%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "adhan_brunei_1",
+      "name": "أذان بروناي",
+      "en_name": "Adhan Brunei 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 406,
+      "filename": "Adhan_Brunei_1_(أذان_بروناي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Brunei_1_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D9%86%D8%A7%D9%8A%29.mp3"
+    },
+    {
+      "id": "adhan_brunei_2",
+      "name": "أذان بروناي",
+      "en_name": "Adhan Brunei 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 372,
+      "filename": "Adhan_Brunei_2_(أذان_بروناي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Brunei_2_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D9%86%D8%A7%D9%8A%29.mp3"
+    },
+    {
+      "id": "adhan_brunei_3",
+      "name": "أذان بروناي",
+      "en_name": "Adhan Brunei 3",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 411,
+      "filename": "Adhan_Brunei_3_(أذان_بروناي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Brunei_3_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D9%86%D8%A7%D9%8A%29.mp3"
+    },
+    {
+      "id": "adhan_dubai_uae",
+      "name": "أذان دبي الإمارات",
+      "en_name": "Adhan Dubai UAE",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 464,
+      "filename": "Adhan_Dubai_UAE_(أذان_دبي_الإمارات).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Dubai_UAE_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%AF%D8%A8%D9%8A_%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_al_haram_al_madani",
+      "name": "أذان الفجر الحرم المدني",
+      "en_name": "Adhan Fajr Al Haram Al Madani",
+      "category": "المدينة المنورة",
+      "is_fajr": true,
+      "size_kb": 549,
+      "filename": "Adhan_Fajr_Al_Haram_Al_Madani_(أذان_الفجر_الحرم_المدني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Al_Haram_Al_Madani_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_al_haram_al_maki",
+      "name": "أذان الفجر الحرم المكي",
+      "en_name": "Adhan Fajr Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": true,
+      "size_kb": 439,
+      "filename": "Adhan_Fajr_Al_Haram_Al_Maki_(أذان_الفجر_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Al_Haram_Al_Maki_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_algeria",
+      "name": "أذان الفجر الجزائر",
+      "en_name": "Adhan Fajr Algeria",
+      "category": "الجزائر",
+      "is_fajr": true,
+      "size_kb": 350,
+      "filename": "Adhan_Fajr_Algeria_(أذان_الفجر_الجزائر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Algeria_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_cairo_egypt",
+      "name": "أذان الفجر القاهرة مصر",
+      "en_name": "Adhan Fajr Cairo Egypt",
+      "category": "مصر",
+      "is_fajr": true,
+      "size_kb": 484,
+      "filename": "Adhan_Fajr_Cairo_Egypt_(أذان_الفجر_القاهرة_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Cairo_Egypt_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_kuwait_1",
+      "name": "أذان الفجر الكويت",
+      "en_name": "Adhan Fajr Kuwait 1",
+      "category": "الكويت",
+      "is_fajr": true,
+      "size_kb": 414,
+      "filename": "Adhan_Fajr_Kuwait_1_(أذان_الفجر_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Kuwait_1_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_kuwait_2",
+      "name": "أذان الفجر الكويت",
+      "en_name": "Adhan Fajr Kuwait 2",
+      "category": "الكويت",
+      "is_fajr": true,
+      "size_kb": 370,
+      "filename": "Adhan_Fajr_Kuwait_2_(أذان_الفجر_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Kuwait_2_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "adhan_fajr_umm_al_quwain",
+      "name": "أذان الفجر أم القيوين",
+      "en_name": "Adhan Fajr Umm Al Quwain",
+      "category": "عام",
+      "is_fajr": true,
+      "size_kb": 376,
+      "filename": "Adhan_Fajr_Umm_Al_Quwain_(أذان_الفجر_أم_القيوين).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Fajr_Umm_Al_Quwain_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A3%D9%85_%D8%A7%D9%84%D9%82%D9%8A%D9%88%D9%8A%D9%86%29.mp3"
+    },
+    {
+      "id": "adhan_georgia",
+      "name": "أذان جورجيا",
+      "en_name": "Adhan Georgia",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4926,
+      "filename": "Adhan_Georgia_(أذان_جورجيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Georgia_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_india",
+      "name": "أذان الهند",
+      "en_name": "Adhan India",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 216,
+      "filename": "Adhan_India_(أذان_الهند).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_India_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%87%D9%86%D8%AF%29.mp3"
+    },
+    {
+      "id": "adhan_indonesia",
+      "name": "أذان إندونيسيا",
+      "en_name": "Adhan Indonesia",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 390,
+      "filename": "Adhan_Indonesia_(أذان_إندونيسيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Indonesia_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_kenya",
+      "name": "أذان كينيا",
+      "en_name": "Adhan Kenya",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3288,
+      "filename": "Adhan_Kenya_(أذان_كينيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Kenya_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%83%D9%8A%D9%86%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_kuwait",
+      "name": "أذان الكويت",
+      "en_name": "Adhan Kuwait",
+      "category": "الكويت",
+      "is_fajr": false,
+      "size_kb": 282,
+      "filename": "Adhan_Kuwait_(أذان_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Kuwait_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "adhan_malaysia_1",
+      "name": "أذان ماليزيا",
+      "en_name": "Adhan Malaysia 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 391,
+      "filename": "Adhan_Malaysia_1_(أذان_ماليزيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Malaysia_1_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_malaysia_2",
+      "name": "أذان ماليزيا",
+      "en_name": "Adhan Malaysia 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 392,
+      "filename": "Adhan_Malaysia_2_(أذان_ماليزيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Malaysia_2_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_maldives",
+      "name": "أذان جزر المالديف",
+      "en_name": "Adhan Maldives",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 367,
+      "filename": "Adhan_Maldives_(أذان_جزر_المالديف).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Maldives_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%AC%D8%B2%D8%B1_%D8%A7%D9%84%D9%85%D8%A7%D9%84%D8%AF%D9%8A%D9%81%29.mp3"
+    },
+    {
+      "id": "adhan_masjid_al_rajehe_saudi_arabia_1",
+      "name": "أذان مسجد الراجحي السعودية",
+      "en_name": "Adhan Masjid Al Rajehe Saudi Arabia 1",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 483,
+      "filename": "Adhan_Masjid_Al_Rajehe_Saudi_Arabia_1_(أذان_مسجد_الراجحي_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Masjid_Al_Rajehe_Saudi_Arabia_1_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "adhan_masjid_al_rajehe_saudi_arabia_2",
+      "name": "أذان مسجد الراجحي السعودية",
+      "en_name": "Adhan Masjid Al Rajehe Saudi Arabia 2",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 282,
+      "filename": "Adhan_Masjid_Al_Rajehe_Saudi_Arabia_2_(أذان_مسجد_الراجحي_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Masjid_Al_Rajehe_Saudi_Arabia_2_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "adhan_masjid_al_rajehe_saudi_arabia_3",
+      "name": "أذان مسجد الراجحي السعودية",
+      "en_name": "Adhan Masjid Al Rajehe Saudi Arabia 3",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 291,
+      "filename": "Adhan_Masjid_Al_Rajehe_Saudi_Arabia_3_(أذان_مسجد_الراجحي_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Masjid_Al_Rajehe_Saudi_Arabia_3_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D8%A7%D8%AC%D8%AD%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "adhan_muscat_oman",
+      "name": "أذان مسقط عُمان",
+      "en_name": "Adhan Muscat Oman",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 300,
+      "filename": "Adhan_Muscat_Oman_(أذان_مسقط_عُمان).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Muscat_Oman_%28%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D8%B3%D9%82%D8%B7_%D8%B9%D9%8F%D9%85%D8%A7%D9%86%29.mp3"
+    },
+    {
+      "id": "adhan_pakistan",
+      "name": "أذان باكستان",
+      "en_name": "Adhan Pakistan",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 361,
+      "filename": "Adhan_Pakistan_(أذان_باكستان).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Pakistan_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%29.mp3"
+    },
+    {
+      "id": "adhan_riyadh_saudi_arabia",
+      "name": "أذان الرياض السعودية",
+      "en_name": "Adhan Riyadh Saudi Arabia",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 2870,
+      "filename": "Adhan_Riyadh_Saudi_Arabia_(أذان_الرياض_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Riyadh_Saudi_Arabia_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "adhan_syria",
+      "name": "أذان سوريا",
+      "en_name": "Adhan Syria",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 436,
+      "filename": "Adhan_Syria_(أذان_سوريا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Syria_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_tunisia",
+      "name": "أذان تونس",
+      "en_name": "Adhan Tunisia",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 285,
+      "filename": "Adhan_Tunisia_(أذان_تونس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Tunisia_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%AA%D9%88%D9%86%D8%B3%29.mp3"
+    },
+    {
+      "id": "adhan_turkey_1",
+      "name": "أذان تركيا",
+      "en_name": "Adhan Turkey 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 352,
+      "filename": "Adhan_Turkey_1_(أذان_تركيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Turkey_1_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "adhan_turkey_2",
+      "name": "أذان تركيا",
+      "en_name": "Adhan Turkey 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 96,
+      "filename": "Adhan_Turkey_2_(أذان_تركيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Adhan_Turkey_2_%28%D8%A3%D8%B0%D8%A7%D9%86_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "ahmad_aamer_muhammad",
+      "name": "أحمد عامر محمد",
+      "en_name": "Ahmad Aamer Muhammad",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2801,
+      "filename": "Ahmad_Aamer_Muhammad_(أحمد_عامر_محمد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Aamer_Muhammad_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%B9%D8%A7%D9%85%D8%B1_%D9%85%D8%AD%D9%85%D8%AF%29.mp3"
+    },
+    {
+      "id": "ahmad_al_aane",
+      "name": "أحمد العاني",
+      "en_name": "Ahmad Al Aane",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4142,
+      "filename": "Ahmad_Al_Aane_(أحمد_العاني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Al_Aane_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B9%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmad_al_amade_1_qatar",
+      "name": "أحمد العمادي - قطر",
+      "en_name": "Ahmad Al Amade 1 - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 372,
+      "filename": "Ahmad_Al_Amade_1_-_Qatar_(أحمد_العمادي_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Al_Amade_1_-_Qatar_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%AF%D9%8A_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "ahmad_al_amade_2_qatar",
+      "name": "أحمد العمادي - قطر",
+      "en_name": "Ahmad Al Amade 2 - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 7061,
+      "filename": "Ahmad_Al_Amade_2_-_Qatar_(أحمد_العمادي_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Al_Amade_2_-_Qatar_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%AF%D9%8A_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "ahmad_al_batal",
+      "name": "أحمد البطل",
+      "en_name": "Ahmad Al Batal",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1171,
+      "filename": "Ahmad_Al_Batal_(أحمد_البطل).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Al_Batal_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%A8%D8%B7%D9%84%29.mp3"
+    },
+    {
+      "id": "ahmad_al_harasses",
+      "name": "أحمد الحراسيس",
+      "en_name": "Ahmad Al Harasses",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5729,
+      "filename": "Ahmad_Al_Harasses_(أحمد_الحراسيس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Al_Harasses_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B3%D9%8A%D8%B3%29.mp3"
+    },
+    {
+      "id": "ahmad_al_nafees",
+      "name": "أحمد النفيس",
+      "en_name": "Ahmad Al Nafees",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3329,
+      "filename": "Ahmad_Al_Nafees_(أحمد_النفيس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Al_Nafees_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3%29.mp3"
+    },
+    {
+      "id": "ahmad_ali_1",
+      "name": "أحمد علي",
+      "en_name": "Ahmad Ali 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1553,
+      "filename": "Ahmad_Ali_1_(أحمد_علي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Ali_1_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmad_ali_2_egypt",
+      "name": "أحمد علي - مصر",
+      "en_name": "Ahmad Ali 2 - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 3292,
+      "filename": "Ahmad_Ali_2_-_Egypt_(أحمد_علي_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Ali_2_-_Egypt_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "ahmad_ali_murtada",
+      "name": "أحمد علي مرتضى",
+      "en_name": "Ahmad Ali Murtada",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1469,
+      "filename": "Ahmad_Ali_Murtada_(أحمد_علي_مرتضى).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Ali_Murtada_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D9%85%D8%B1%D8%AA%D8%B6%D9%89%29.mp3"
+    },
+    {
+      "id": "ahmad_fakhru_qatar",
+      "name": "أحمد فخرو - قطر",
+      "en_name": "Ahmad Fakhru - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 6091,
+      "filename": "Ahmad_Fakhru_-_Qatar_(أحمد_فخرو_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Fakhru_-_Qatar_%28%D8%A3%D8%AD%D9%85%D8%AF_%D9%81%D8%AE%D8%B1%D9%88_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "ahmad_nawaf_al_mejlad_1",
+      "name": "أحمد نواف المجلد",
+      "en_name": "Ahmad Nawaf Al Mejlad 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1347,
+      "filename": "Ahmad_Nawaf_Al_Mejlad_1_(أحمد_نواف_المجلد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Nawaf_Al_Mejlad_1_%28%D8%A3%D8%AD%D9%85%D8%AF_%D9%86%D9%88%D8%A7%D9%81_%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF%29.mp3"
+    },
+    {
+      "id": "ahmad_nawaf_al_mejlad_2_fajr",
+      "name": "أحمد نواف المجلد - الفجر",
+      "en_name": "Ahmad Nawaf Al Mejlad 2 - Fajr",
+      "category": "عام",
+      "is_fajr": true,
+      "size_kb": 1521,
+      "filename": "Ahmad_Nawaf_Al_Mejlad_2_-_Fajr_(أحمد_نواف_المجلد_-_الفجر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmad_Nawaf_Al_Mejlad_2_-_Fajr_%28%D8%A3%D8%AD%D9%85%D8%AF_%D9%86%D9%88%D8%A7%D9%81_%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF_-_%D8%A7%D9%84%D9%81%D8%AC%D8%B1%29.mp3"
+    },
+    {
+      "id": "ahmd_at_trablsy_fajr_kuwait",
+      "name": "أحمد الطرابلسي - فجر الكويت",
+      "en_name": "Ahmd At-Trablsy - Fajr Kuwait",
+      "category": "الكويت",
+      "is_fajr": true,
+      "size_kb": 1014,
+      "filename": "Ahmd_At-Trablsy_-_Fajr_Kuwait_(أحمد_الطرابلسي_-_فجر_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmd_At-Trablsy_-_Fajr_Kuwait_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A_-_%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "ahmd_at_trablsy_1",
+      "name": "أحمد الطرابلسي",
+      "en_name": "Ahmd At-Trablsy 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5569,
+      "filename": "Ahmd_At-Trablsy_1_(أحمد_الطرابلسي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmd_At-Trablsy_1_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmd_at_trablsy_2",
+      "name": "أحمد الطرابلسي",
+      "en_name": "Ahmd At-Trablsy 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 7597,
+      "filename": "Ahmd_At-Trablsy_2_(أحمد_الطرابلسي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmd_At-Trablsy_2_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmd_at_trablsy_3",
+      "name": "أحمد الطرابلسي",
+      "en_name": "Ahmd At-Trablsy 3",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6204,
+      "filename": "Ahmd_At-Trablsy_3_(أحمد_الطرابلسي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmd_At-Trablsy_3_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmd_at_trablsy_4",
+      "name": "أحمد الطرابلسي",
+      "en_name": "Ahmd At-Trablsy 4",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4013,
+      "filename": "Ahmd_At-Trablsy_4_(أحمد_الطرابلسي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmd_At-Trablsy_4_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmd_at_trablsy_5",
+      "name": "أحمد الطرابلسي",
+      "en_name": "Ahmd At-Trablsy 5",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1014,
+      "filename": "Ahmd_At-Trablsy_5_(أحمد_الطرابلسي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmd_At-Trablsy_5_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmed_al_haddad",
+      "name": "أحمد الحداد",
+      "en_name": "Ahmed Al-Haddad",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2419,
+      "filename": "Ahmed_Al-Haddad_(أحمد_الحداد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmed_Al-Haddad_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AD%D8%AF%D8%A7%D8%AF%29.mp3"
+    },
+    {
+      "id": "ahmed_el_kourdi",
+      "name": "أحمد الكردي",
+      "en_name": "Ahmed El Kourdi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3090,
+      "filename": "Ahmed_El_Kourdi_(أحمد_الكردي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmed_El_Kourdi_%28%D8%A3%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D8%AF%D9%8A%29.mp3"
+    },
+    {
+      "id": "ahmed_nuinaa_1_egypt",
+      "name": "أحمد نعينع - مصر",
+      "en_name": "Ahmed Nuinaa 1 - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 400,
+      "filename": "Ahmed_Nuinaa_1_-_Egypt_(أحمد_نعينع_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmed_Nuinaa_1_-_Egypt_%28%D8%A3%D8%AD%D9%85%D8%AF_%D9%86%D8%B9%D9%8A%D9%86%D8%B9_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "ahmed_nuinaa_2_cairo",
+      "name": "أحمد نعينع - القاهرة",
+      "en_name": "Ahmed Nuinaa 2 - Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 414,
+      "filename": "Ahmed_Nuinaa_2_-_Cairo_(أحمد_نعينع_-_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ahmed_Nuinaa_2_-_Cairo_%28%D8%A3%D8%AD%D9%85%D8%AF_%D9%86%D8%B9%D9%8A%D9%86%D8%B9_-_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "akhdam_bnu_al_madane",
+      "name": "أخدام بن المداني",
+      "en_name": "Akhdam Bnu Al Madane",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6966,
+      "filename": "Akhdam_Bnu_Al_Madane_(أخدام_بن_المداني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Akhdam_Bnu_Al_Madane_%28%D8%A3%D8%AE%D8%AF%D8%A7%D9%85_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "al_ameen_muhammad_qanyouh",
+      "name": "الأمين محمد قانيوح",
+      "en_name": "Al Ameen Muhammad Qanyouh",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3099,
+      "filename": "Al_Ameen_Muhammad_Qanyouh_(الأمين_محمد_قانيوح).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Al_Ameen_Muhammad_Qanyouh_%28%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D9%82%D8%A7%D9%86%D9%8A%D9%88%D8%AD%29.mp3"
+    },
+    {
+      "id": "al_bahlul_abu_arqub_1",
+      "name": "البهلول أبو عرقوب",
+      "en_name": "Al Bahlul Abu Arqub 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1633,
+      "filename": "Al_Bahlul_Abu_Arqub_1_(البهلول_أبو_عرقوب).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Al_Bahlul_Abu_Arqub_1_%28%D8%A7%D9%84%D8%A8%D9%87%D9%84%D9%88%D9%84_%D8%A3%D8%A8%D9%88_%D8%B9%D8%B1%D9%82%D9%88%D8%A8%29.mp3"
+    },
+    {
+      "id": "al_bahlul_abu_arqub_2",
+      "name": "البهلول أبو عرقوب",
+      "en_name": "Al Bahlul Abu Arqub 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1759,
+      "filename": "Al_Bahlul_Abu_Arqub_2_(البهلول_أبو_عرقوب).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Al_Bahlul_Abu_Arqub_2_%28%D8%A7%D9%84%D8%A8%D9%87%D9%84%D9%88%D9%84_%D8%A3%D8%A8%D9%88_%D8%B9%D8%B1%D9%82%D9%88%D8%A8%29.mp3"
+    },
+    {
+      "id": "al_duqale_muhammad_al_alam",
+      "name": "الدقالي محمد العلام",
+      "en_name": "Al Duqale Muhammad Al Alam",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1020,
+      "filename": "Al_Duqale_Muhammad_Al_Alam_(الدقالي_محمد_العلام).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Al_Duqale_Muhammad_Al_Alam_%28%D8%A7%D9%84%D8%AF%D9%82%D8%A7%D9%84%D9%8A_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%85%29.mp3"
+    },
+    {
+      "id": "al_saed_metwale_al_aal",
+      "name": "السيد متولي الآل",
+      "en_name": "Al Saed Metwale AL Aal",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 334,
+      "filename": "Al_Saed_Metwale_AL_Aal_(السيد_متولي_الآل).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Al_Saed_Metwale_AL_Aal_%28%D8%A7%D9%84%D8%B3%D9%8A%D8%AF_%D9%85%D8%AA%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%A2%D9%84%29.mp3"
+    },
+    {
+      "id": "al_sayed_muslim",
+      "name": "السيد مسلم",
+      "en_name": "Al Sayed Muslim",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5059,
+      "filename": "Al_Sayed_Muslim_(السيد_مسلم).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Al_Sayed_Muslim_%28%D8%A7%D9%84%D8%B3%D9%8A%D8%AF_%D9%85%D8%B3%D9%84%D9%85%29.mp3"
+    },
+    {
+      "id": "ali_hassan_abd_al_khaliq_qatar",
+      "name": "علي حسن عبد الخالق - قطر",
+      "en_name": "Ali Hassan Abd Al Khaliq - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 5253,
+      "filename": "Ali_Hassan_Abd_Al_Khaliq_-_Qatar_(علي_حسن_عبد_الخالق_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Hassan_Abd_Al_Khaliq_-_Qatar_%28%D8%B9%D9%84%D9%8A_%D8%AD%D8%B3%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D9%82_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_hq",
+      "name": "علي بن أحمد ملا",
+      "en_name": "Ali Ibn Ahmad Mala - HQ",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3822,
+      "filename": "Ali_Ibn_Ahmad_Mala_-_HQ_(علي_بن_أحمد_ملا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_-_HQ_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_1_al_haram_al_maki",
+      "name": "علي بن أحمد ملا - الحرم المكي",
+      "en_name": "Ali Ibn Ahmad Mala 1 - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 481,
+      "filename": "Ali_Ibn_Ahmad_Mala_1_-_Al_Haram_Al_Maki_(علي_بن_أحمد_ملا_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_1_-_Al_Haram_Al_Maki_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_2_al_haram_al_maki",
+      "name": "علي بن أحمد ملا - الحرم المكي",
+      "en_name": "Ali Ibn Ahmad Mala 2 - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 420,
+      "filename": "Ali_Ibn_Ahmad_Mala_2_-_Al_Haram_Al_Maki_(علي_بن_أحمد_ملا_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_2_-_Al_Haram_Al_Maki_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_3_al_haram_al_maki",
+      "name": "علي بن أحمد ملا - الحرم المكي",
+      "en_name": "Ali Ibn Ahmad Mala 3 - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 400,
+      "filename": "Ali_Ibn_Ahmad_Mala_3_-_Al_Haram_Al_Maki_(علي_بن_أحمد_ملا_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_3_-_Al_Haram_Al_Maki_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_4_al_haram_al_maki",
+      "name": "علي بن أحمد ملا - الحرم المكي",
+      "en_name": "Ali Ibn Ahmad Mala 4 - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 310,
+      "filename": "Ali_Ibn_Ahmad_Mala_4_-_Al_Haram_Al_Maki_(علي_بن_أحمد_ملا_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_4_-_Al_Haram_Al_Maki_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_5_al_haram_al_maki",
+      "name": "علي بن أحمد ملا - الحرم المكي",
+      "en_name": "Ali Ibn Ahmad Mala 5 - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 400,
+      "filename": "Ali_Ibn_Ahmad_Mala_5_-_Al_Haram_Al_Maki_(علي_بن_أحمد_ملا_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_5_-_Al_Haram_Al_Maki_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_6_al_haram_al_maki",
+      "name": "علي بن أحمد ملا - الحرم المكي",
+      "en_name": "Ali Ibn Ahmad Mala 6 - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 346,
+      "filename": "Ali_Ibn_Ahmad_Mala_6_-_Al_Haram_Al_Maki_(علي_بن_أحمد_ملا_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_6_-_Al_Haram_Al_Maki_%28%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%A3%D8%AD%D9%85%D8%AF_%D9%85%D9%84%D8%A7_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "ali_ibn_ahmad_mala_hq",
+      "name": "Ali Ibn Ahmad Mala HQ",
+      "en_name": "Ali Ibn Ahmad Mala HQ",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3097,
+      "filename": "Ali_Ibn_Ahmad_Mala_HQ.mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ali_Ibn_Ahmad_Mala_HQ.mp3"
+    },
+    {
+      "id": "anuar_duman_turkey",
+      "name": "أنوار دومان - تركيا",
+      "en_name": "Anuar Duman - Turkey",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4606,
+      "filename": "Anuar_Duman_-_Turkey_(أنوار_دومان_-_تركيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Anuar_Duman_-_Turkey_%28%D8%A3%D9%86%D9%88%D8%A7%D8%B1_%D8%AF%D9%88%D9%85%D8%A7%D9%86_-_%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "assem_bukhrare_al_haram_al_maki",
+      "name": "عاصم بخراري - الحرم المكي",
+      "en_name": "Assem Bukhrare - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 550,
+      "filename": "Assem_Bukhrare_-_Al_Haram_Al_Maki_(عاصم_بخراري_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Assem_Bukhrare_-_Al_Haram_Al_Maki_%28%D8%B9%D8%A7%D8%B5%D9%85_%D8%A8%D8%AE%D8%B1%D8%A7%D8%B1%D9%8A_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "azan_nakshabandi",
+      "name": "Azan nakshabandi",
+      "en_name": "Azan nakshabandi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2251,
+      "filename": "Azan_nakshabandi.mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Azan_nakshabandi.mp3"
+    },
+    {
+      "id": "badee_jadu_1",
+      "name": "بديع جادو",
+      "en_name": "Badee Jadu 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3231,
+      "filename": "Badee_Jadu_1_(بديع_جادو).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Badee_Jadu_1_%28%D8%A8%D8%AF%D9%8A%D8%B9_%D8%AC%D8%A7%D8%AF%D9%88%29.mp3"
+    },
+    {
+      "id": "badee_jadu_2",
+      "name": "بديع جادو",
+      "en_name": "Badee Jadu 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3619,
+      "filename": "Badee_Jadu_2_(بديع_جادو).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Badee_Jadu_2_%28%D8%A8%D8%AF%D9%8A%D8%B9_%D8%AC%D8%A7%D8%AF%D9%88%29.mp3"
+    },
+    {
+      "id": "badee_jadu_3",
+      "name": "بديع جادو",
+      "en_name": "Badee Jadu 3",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3050,
+      "filename": "Badee_Jadu_3_(بديع_جادو).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Badee_Jadu_3_%28%D8%A8%D8%AF%D9%8A%D8%B9_%D8%AC%D8%A7%D8%AF%D9%88%29.mp3"
+    },
+    {
+      "id": "balbasher_abdel_qadir",
+      "name": "بلباشر عبد القادر",
+      "en_name": "BalBaSher Abdel Qadir",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1828,
+      "filename": "BalBaSher_Abdel_Qadir_(بلباشر_عبد_القادر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/BalBaSher_Abdel_Qadir_%28%D8%A8%D9%84%D8%A8%D8%A7%D8%B4%D8%B1_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1%29.mp3"
+    },
+    {
+      "id": "bnu_sawana_1",
+      "name": "بن سوانة",
+      "en_name": "Bnu Sawana 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3489,
+      "filename": "Bnu_Sawana_1_(بن_سوانة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Bnu_Sawana_1_%28%D8%A8%D9%86_%D8%B3%D9%88%D8%A7%D9%86%D8%A9%29.mp3"
+    },
+    {
+      "id": "bnu_sawana_2",
+      "name": "بن سوانة",
+      "en_name": "Bnu Sawana 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3407,
+      "filename": "Bnu_Sawana_2_(بن_سوانة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Bnu_Sawana_2_%28%D8%A8%D9%86_%D8%B3%D9%88%D8%A7%D9%86%D8%A9%29.mp3"
+    },
+    {
+      "id": "ezzedine_amarna",
+      "name": "عز الدين عمارنة",
+      "en_name": "Ezzedine Amarna",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2373,
+      "filename": "Ezzedine_Amarna_(عز_الدين_عمارنة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ezzedine_Amarna_%28%D8%B9%D8%B2_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%B9%D9%85%D8%A7%D8%B1%D9%86%D8%A9%29.mp3"
+    },
+    {
+      "id": "fajr_adhan_by_nasreddine_toubar",
+      "name": "اذان الفجر بصوت نصر الدين طوبار",
+      "en_name": "Fajr Adhan by Nasreddine Toubar",
+      "category": "عام",
+      "is_fajr": true,
+      "size_kb": 4544,
+      "filename": "Fajr_Adhan_by_Nasreddine_Toubar_(اذان_الفجر_بصوت_نصر_الدين_طوبار).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Fajr_Adhan_by_Nasreddine_Toubar_%28%D8%A7%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A8%D8%B5%D9%88%D8%AA_%D9%86%D8%B5%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%B7%D9%88%D8%A8%D8%A7%D8%B1%29.mp3"
+    },
+    {
+      "id": "fares_abdul_ghane",
+      "name": "فارس عبد الغني",
+      "en_name": "Fares Abdul Ghane",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4067,
+      "filename": "Fares_Abdul_Ghane_(فارس_عبد_الغني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Fares_Abdul_Ghane_%28%D9%81%D8%A7%D8%B1%D8%B3_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%BA%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "faruq_abdul_rahman_hadrawe_al_haram_al_maki",
+      "name": "فاروق عبدالرحمن حضراوي - الحرم المكي",
+      "en_name": "Faruq Abdul Rahman Hadrawe - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 546,
+      "filename": "Faruq_Abdul_Rahman_Hadrawe_-_Al_Haram_Al_Maki_(فاروق_عبدالرحمن_حضراوي_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Faruq_Abdul_Rahman_Hadrawe_-_Al_Haram_Al_Maki_%28%D9%81%D8%A7%D8%B1%D9%88%D9%82_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%AD%D8%B6%D8%B1%D8%A7%D9%88%D9%8A_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "fawaz_farhan_al_dumane",
+      "name": "فواز فرحان الدماني",
+      "en_name": "Fawaz Farhan Al Dumane",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2323,
+      "filename": "Fawaz_Farhan_Al_Dumane_(فواز_فرحان_الدماني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Fawaz_Farhan_Al_Dumane_%28%D9%81%D9%88%D8%A7%D8%B2_%D9%81%D8%B1%D8%AD%D8%A7%D9%86_%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "fayz_abd_al_salam",
+      "name": "فايز عبد السلام",
+      "en_name": "Fayz Abd Al Salam",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2073,
+      "filename": "Fayz_Abd_Al_Salam_(فايز_عبد_السلام).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Fayz_Abd_Al_Salam_%28%D9%81%D8%A7%D9%8A%D8%B2_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%29.mp3"
+    },
+    {
+      "id": "gharm_al_bishi",
+      "name": "غرم البيشي",
+      "en_name": "Gharm Al Bishi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2882,
+      "filename": "Gharm_Al_Bishi_(غرم_البيشي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Gharm_Al_Bishi_%28%D8%BA%D8%B1%D9%85_%D8%A7%D9%84%D8%A8%D9%8A%D8%B4%D9%8A%29.mp3"
+    },
+    {
+      "id": "ghazi_al_saadoun",
+      "name": "غازي السعدون",
+      "en_name": "Ghazi Al Saadoun",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3405,
+      "filename": "Ghazi_Al_Saadoun_(غازي_السعدون).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ghazi_Al_Saadoun_%28%D8%BA%D8%A7%D8%B2%D9%8A_%D8%A7%D9%84%D8%B3%D8%B9%D8%AF%D9%88%D9%86%29.mp3"
+    },
+    {
+      "id": "hafed_hessen_erq",
+      "name": "حافظ حسين عرق",
+      "en_name": "Hafed Hessen Erq",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 221,
+      "filename": "Hafed_Hessen_Erq_(حافظ_حسين_عرق).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hafed_Hessen_Erq_%28%D8%AD%D8%A7%D9%81%D8%B8_%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D8%B1%D9%82%29.mp3"
+    },
+    {
+      "id": "haj_sulaiman_mukhtar_algeria",
+      "name": "حاج سليمان مختار - الجزائر",
+      "en_name": "Haj Sulaiman Mukhtar - Algeria",
+      "category": "الجزائر",
+      "is_fajr": false,
+      "size_kb": 1336,
+      "filename": "Haj_Sulaiman_Mukhtar_-_Algeria_(حاج_سليمان_مختار_-_الجزائر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Haj_Sulaiman_Mukhtar_-_Algeria_%28%D8%AD%D8%A7%D8%AC_%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1_-_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%29.mp3"
+    },
+    {
+      "id": "hamad_al_daghriri",
+      "name": "حمد الدغريري",
+      "en_name": "Hamad Al Daghriri",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3007,
+      "filename": "Hamad_Al_Daghriri_(حمد_الدغريري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hamad_Al_Daghriri_%28%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AF%D8%BA%D8%B1%D9%8A%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "hamad_al_daghriri_hq",
+      "name": "حمد الدغريري",
+      "en_name": "Hamad Al Daghriri - HQ",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 605,
+      "filename": "Hamad_Al_Daghriri_-_HQ_(حمد_الدغريري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hamad_Al_Daghriri_-_HQ_%28%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AF%D8%BA%D8%B1%D9%8A%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "hamdan_al_maleke_najran_saudi_arabia",
+      "name": "حمدان الملكي - نجران السعودية",
+      "en_name": "Hamdan Al Maleke - Najran Saudi Arabia",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 4171,
+      "filename": "Hamdan_Al_Maleke_-_Najran_Saudi_Arabia_(حمدان_الملكي_-_نجران_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hamdan_Al_Maleke_-_Najran_Saudi_Arabia_%28%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A_-_%D9%86%D8%AC%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "hamza_al_halabea",
+      "name": "حمزة الحلبي",
+      "en_name": "Hamza Al Halabea",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 946,
+      "filename": "Hamza_Al_Halabea_(حمزة_الحلبي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hamza_Al_Halabea_%28%D8%AD%D9%85%D8%B2%D8%A9_%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A%29.mp3"
+    },
+    {
+      "id": "hamza_al_majale",
+      "name": "حمزة المجالي",
+      "en_name": "Hamza Al Majale",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5456,
+      "filename": "Hamza_Al_Majale_(حمزة_المجالي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hamza_Al_Majale_%28%D8%AD%D9%85%D8%B2%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D9%8A%29.mp3"
+    },
+    {
+      "id": "hassan_khalfan_qatar",
+      "name": "حسن خلفان - قطر",
+      "en_name": "Hassan Khalfan - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 2800,
+      "filename": "Hassan_Khalfan_-_Qatar_(حسن_خلفان_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hassan_Khalfan_-_Qatar_%28%D8%AD%D8%B3%D9%86_%D8%AE%D9%84%D9%81%D8%A7%D9%86_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "hassan_mahmud_bare",
+      "name": "حسن محمود باره",
+      "en_name": "Hassan Mahmud Bare",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6417,
+      "filename": "Hassan_Mahmud_Bare_(حسن_محمود_باره).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hassan_Mahmud_Bare_%28%D8%AD%D8%B3%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A8%D8%A7%D8%B1%D9%87%29.mp3"
+    },
+    {
+      "id": "hassan_salah_baalul",
+      "name": "حسن صالح بعلول",
+      "en_name": "Hassan Salah Baalul",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2905,
+      "filename": "Hassan_Salah_Baalul_(حسن_صالح_بعلول).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hassan_Salah_Baalul_%28%D8%AD%D8%B3%D9%86_%D8%B5%D8%A7%D9%84%D8%AD_%D8%A8%D8%B9%D9%84%D9%88%D9%84%29.mp3"
+    },
+    {
+      "id": "hecham_khalel",
+      "name": "هشام خليل",
+      "en_name": "Hecham Khalel",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3048,
+      "filename": "Hecham_Khalel_(هشام_خليل).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hecham_Khalel_%28%D9%87%D8%B4%D8%A7%D9%85_%D8%AE%D9%84%D9%8A%D9%84%29.mp3"
+    },
+    {
+      "id": "hussain_afifi",
+      "name": "حسين عفيفي",
+      "en_name": "Hussain Afifi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3490,
+      "filename": "Hussain_Afifi_(حسين_عفيفي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hussain_Afifi_%28%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D9%81%D9%8A%D9%81%D9%8A%29.mp3"
+    },
+    {
+      "id": "hussam_al_deen_obade",
+      "name": "حسام الدين عبادة",
+      "en_name": "Hussam Al Deen Obade",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3421,
+      "filename": "Hussam_Al_Deen_Obade_(حسام_الدين_عبادة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Hussam_Al_Deen_Obade_%28%D8%AD%D8%B3%D8%A7%D9%85_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9%29.mp3"
+    },
+    {
+      "id": "ibraheem_al_jumayle",
+      "name": "إبراهيم الجميل",
+      "en_name": "Ibraheem Al Jumayle",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2405,
+      "filename": "Ibraheem_Al_Jumayle_(إبراهيم_الجميل).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ibraheem_Al_Jumayle_%28%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%29.mp3"
+    },
+    {
+      "id": "ibraheem_jabar_1",
+      "name": "إبراهيم جابر",
+      "en_name": "Ibraheem Jabar 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1657,
+      "filename": "Ibraheem_Jabar_1_(إبراهيم_جابر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ibraheem_Jabar_1_%28%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%AC%D8%A7%D8%A8%D8%B1%29.mp3"
+    },
+    {
+      "id": "ibraheem_jabar_2",
+      "name": "إبراهيم جابر",
+      "en_name": "Ibraheem Jabar 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1712,
+      "filename": "Ibraheem_Jabar_2_(إبراهيم_جابر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ibraheem_Jabar_2_%28%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%AC%D8%A7%D8%A8%D8%B1%29.mp3"
+    },
+    {
+      "id": "ibraheem_jabr_abu_raheq",
+      "name": "إبراهيم جبر أبو رحيق",
+      "en_name": "Ibraheem Jabr Abu Raheq",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4599,
+      "filename": "Ibraheem_Jabr_Abu_Raheq_(إبراهيم_جبر_أبو_رحيق).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ibraheem_Jabr_Abu_Raheq_%28%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%AC%D8%A8%D8%B1_%D8%A3%D8%A8%D9%88_%D8%B1%D8%AD%D9%8A%D9%82%29.mp3"
+    },
+    {
+      "id": "ibraheem_jabr_abu_raheq_fajr",
+      "name": "إبراهيم جبر أبو رحيق - الفجر",
+      "en_name": "Ibraheem Jabr Abu Raheq - Fajr",
+      "category": "عام",
+      "is_fajr": true,
+      "size_kb": 2286,
+      "filename": "Ibraheem_Jabr_Abu_Raheq_-_Fajr_(إبراهيم_جبر_أبو_رحيق_-_الفجر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ibraheem_Jabr_Abu_Raheq_-_Fajr_%28%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%AC%D8%A8%D8%B1_%D8%A3%D8%A8%D9%88_%D8%B1%D8%AD%D9%8A%D9%82_-_%D8%A7%D9%84%D9%81%D8%AC%D8%B1%29.mp3"
+    },
+    {
+      "id": "ihssan_hamed_al_dulayme",
+      "name": "إحسان حامد الدليمي",
+      "en_name": "Ihssan Hamed Al Dulayme",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3336,
+      "filename": "Ihssan_Hamed_Al_Dulayme_(إحسان_حامد_الدليمي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ihssan_Hamed_Al_Dulayme_%28%D8%A5%D8%AD%D8%B3%D8%A7%D9%86_%D8%AD%D8%A7%D9%85%D8%AF_%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%85%D9%8A%29.mp3"
+    },
+    {
+      "id": "islam_yassen",
+      "name": "إسلام ياسين",
+      "en_name": "Islam Yassen",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1813,
+      "filename": "Islam_Yassen_(إسلام_ياسين).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Islam_Yassen_%28%D8%A5%D8%B3%D9%84%D8%A7%D9%85_%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%29.mp3"
+    },
+    {
+      "id": "ismail_al_sheikh",
+      "name": "إسماعيل الشيخ",
+      "en_name": "Ismail Al Sheikh",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1571,
+      "filename": "Ismail_Al_Sheikh_(إسماعيل_الشيخ).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Ismail_Al_Sheikh_%28%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%29.mp3"
+    },
+    {
+      "id": "issa_al_hajlawe",
+      "name": "عيسى الهجلاوي",
+      "en_name": "Issa Al Hajlawe",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2246,
+      "filename": "Issa_Al_Hajlawe_(عيسى_الهجلاوي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Issa_Al_Hajlawe_%28%D8%B9%D9%8A%D8%B3%D9%89_%D8%A7%D9%84%D9%87%D8%AC%D9%84%D8%A7%D9%88%D9%8A%29.mp3"
+    },
+    {
+      "id": "jamal_abu_al_hamed_al_jaafare",
+      "name": "جمال أبو الحامد الجعفري",
+      "en_name": "Jamal Abu Al Hamed Al Jaafare",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2555,
+      "filename": "Jamal_Abu_Al_Hamed_Al_Jaafare_(جمال_أبو_الحامد_الجعفري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Jamal_Abu_Al_Hamed_Al_Jaafare_%28%D8%AC%D9%85%D8%A7%D9%84_%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%AD%D8%A7%D9%85%D8%AF_%D8%A7%D9%84%D8%AC%D8%B9%D9%81%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "kamal_muhammad_al_marush_1",
+      "name": "كمال محمد المرعوش",
+      "en_name": "Kamal Muhammad Al Marush 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4969,
+      "filename": "Kamal_Muhammad_Al_Marush_1_(كمال_محمد_المرعوش).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Kamal_Muhammad_Al_Marush_1_%28%D9%83%D9%85%D8%A7%D9%84_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%85%D8%B1%D8%B9%D9%88%D8%B4%29.mp3"
+    },
+    {
+      "id": "kamal_muhammad_al_marush_2_morocco",
+      "name": "كمال محمد المرعوش - المغرب",
+      "en_name": "Kamal Muhammad Al Marush 2 - Morocco",
+      "category": "المغرب",
+      "is_fajr": false,
+      "size_kb": 3276,
+      "filename": "Kamal_Muhammad_Al_Marush_2_-_Morocco_(كمال_محمد_المرعوش_-_المغرب).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Kamal_Muhammad_Al_Marush_2_-_Morocco_%28%D9%83%D9%85%D8%A7%D9%84_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%85%D8%B1%D8%B9%D9%88%D8%B4_-_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%29.mp3"
+    },
+    {
+      "id": "lafi_al_awni",
+      "name": "لافي العوني",
+      "en_name": "Lafi Al Awni",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2189,
+      "filename": "Lafi_Al_Awni_(لافي_العوني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Lafi_Al_Awni_%28%D9%84%D8%A7%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D9%88%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "mahde_al_bechee",
+      "name": "مهدي البشي",
+      "en_name": "Mahde Al Bechee",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 432,
+      "filename": "Mahde_Al_Bechee_(مهدي_البشي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahde_Al_Bechee_%28%D9%85%D9%87%D8%AF%D9%8A_%D8%A7%D9%84%D8%A8%D8%B4%D9%8A%29.mp3"
+    },
+    {
+      "id": "mahmoud_al_fawazi",
+      "name": "محمود الفوازي",
+      "en_name": "Mahmoud Al Fawazi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5806,
+      "filename": "Mahmoud_Al_Fawazi_(محمود_الفوازي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmoud_Al_Fawazi_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D9%81%D9%88%D8%A7%D8%B2%D9%8A%29.mp3"
+    },
+    {
+      "id": "mahmoud_ali_al_banna_cairo",
+      "name": "محمود علي البنا - القاهرة",
+      "en_name": "Mahmoud Ali Al Banna - Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 328,
+      "filename": "Mahmoud_Ali_Al_Banna_-_Cairo_(محمود_علي_البنا_-_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmoud_Ali_Al_Banna_-_Cairo_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A7%D9%84%D8%A8%D9%86%D8%A7_-_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "mahmoud_hijazi",
+      "name": "محمود حجازي",
+      "en_name": "Mahmoud Hijazi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3354,
+      "filename": "Mahmoud_Hijazi_(محمود_حجازي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmoud_Hijazi_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%AD%D8%AC%D8%A7%D8%B2%D9%8A%29.mp3"
+    },
+    {
+      "id": "mahmoud_khalil_al_hussary_cairo",
+      "name": "محمود خليل الحصري - القاهرة",
+      "en_name": "Mahmoud Khalil Al Hussary - Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 253,
+      "filename": "Mahmoud_Khalil_Al_Hussary_-_Cairo_(محمود_خليل_الحصري_-_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmoud_Khalil_Al_Hussary_-_Cairo_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%AE%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%AD%D8%B5%D8%B1%D9%8A_-_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "mahmud_al_tawakh_1",
+      "name": "محمود الطواخ",
+      "en_name": "Mahmud Al Tawakh 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2591,
+      "filename": "Mahmud_Al_Tawakh_1_(محمود_الطواخ).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmud_Al_Tawakh_1_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%AE%29.mp3"
+    },
+    {
+      "id": "mahmud_al_tawakh_2_masjid_al_rifai_cairo",
+      "name": "محمود الطواخ - مسجد الرفاعي القاهرة",
+      "en_name": "Mahmud Al Tawakh 2 - Masjid Al Rifai Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 3100,
+      "filename": "Mahmud_Al_Tawakh_2_-_Masjid_Al_Rifai_Cairo_(محمود_الطواخ_-_مسجد_الرفاعي_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmud_Al_Tawakh_2_-_Masjid_Al_Rifai_Cairo_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%AE_-_%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B1%D9%81%D8%A7%D8%B9%D9%8A_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "mahmud_mustafa_al_najar",
+      "name": "محمود مصطفى النجار",
+      "en_name": "Mahmud Mustafa Al Najar",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2383,
+      "filename": "Mahmud_Mustafa_Al_Najar_(محمود_مصطفى_النجار).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mahmud_Mustafa_Al_Najar_%28%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1%29.mp3"
+    },
+    {
+      "id": "majid_al_zamel",
+      "name": "ماجد الزامل",
+      "en_name": "Majid Al Zamel",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2709,
+      "filename": "Majid_Al_Zamel_(ماجد_الزامل).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Majid_Al_Zamel_%28%D9%85%D8%A7%D8%AC%D8%AF_%D8%A7%D9%84%D8%B2%D8%A7%D9%85%D9%84%29.mp3"
+    },
+    {
+      "id": "mansur_al_zahrane",
+      "name": "منصور الزهراني",
+      "en_name": "Mansur Al Zahrane",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2890,
+      "filename": "Mansur_Al_Zahrane_(منصور_الزهراني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mansur_Al_Zahrane_%28%D9%85%D9%86%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "mansur_al_zahrane_hq",
+      "name": "منصور الزهراني",
+      "en_name": "Mansur Al Zahrane - HQ",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 745,
+      "filename": "Mansur_Al_Zahrane_-_HQ_(منصور_الزهراني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mansur_Al_Zahrane_-_HQ_%28%D9%85%D9%86%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "mishary_al_afasy_hq",
+      "name": "مشاري العفاسي",
+      "en_name": "Mishary Al Afasy - HQ",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 607,
+      "filename": "Mishary_Al_Afasy_-_HQ_(مشاري_العفاسي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mishary_Al_Afasy_-_HQ_%28%D9%85%D8%B4%D8%A7%D8%B1%D9%8A_%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A%29.mp3"
+    },
+    {
+      "id": "mishary_rashid_alafasy_1_kuwait",
+      "name": "مشاري راشد العفاسي - الكويت",
+      "en_name": "Mishary Rashid Alafasy 1 - Kuwait",
+      "category": "الكويت",
+      "is_fajr": false,
+      "size_kb": 1886,
+      "filename": "Mishary_Rashid_Alafasy_1_-_Kuwait_(مشاري_راشد_العفاسي_-_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mishary_Rashid_Alafasy_1_-_Kuwait_%28%D9%85%D8%B4%D8%A7%D8%B1%D9%8A_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A_-_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "mishary_rashid_alafasy_2_kuwait",
+      "name": "مشاري راشد العفاسي - الكويت",
+      "en_name": "Mishary Rashid Alafasy 2 - Kuwait",
+      "category": "الكويت",
+      "is_fajr": false,
+      "size_kb": 2014,
+      "filename": "Mishary_Rashid_Alafasy_2_-_Kuwait_(مشاري_راشد_العفاسي_-_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mishary_Rashid_Alafasy_2_-_Kuwait_%28%D9%85%D8%B4%D8%A7%D8%B1%D9%8A_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A_-_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "mishary_rashid_alafasy_3_fajr_kuwait",
+      "name": "مشاري راشد العفاسي - فجر الكويت",
+      "en_name": "Mishary Rashid Alafasy 3 - Fajr Kuwait",
+      "category": "الكويت",
+      "is_fajr": true,
+      "size_kb": 1468,
+      "filename": "Mishary_Rashid_Alafasy_3_-_Fajr_Kuwait_(مشاري_راشد_العفاسي_-_فجر_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mishary_Rashid_Alafasy_3_-_Fajr_Kuwait_%28%D9%85%D8%B4%D8%A7%D8%B1%D9%8A_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A_-_%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "mishary_rashid_alafasy_4_fajr_kuwait",
+      "name": "مشاري راشد العفاسي - فجر الكويت",
+      "en_name": "Mishary Rashid Alafasy 4 - Fajr Kuwait",
+      "category": "الكويت",
+      "is_fajr": true,
+      "size_kb": 2259,
+      "filename": "Mishary_Rashid_Alafasy_4_-_Fajr_Kuwait_(مشاري_راشد_العفاسي_-_فجر_الكويت).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mishary_Rashid_Alafasy_4_-_Fajr_Kuwait_%28%D9%85%D8%B4%D8%A7%D8%B1%D9%8A_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A7%D9%84%D8%B9%D9%81%D8%A7%D8%B3%D9%8A_-_%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%29.mp3"
+    },
+    {
+      "id": "mohamed_siddiq_el_minshawi_afghanistan",
+      "name": "محمد صديق المنشاوي - أفغانستان",
+      "en_name": "Mohamed Siddiq El-Minshawi - Afghanistan",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2558,
+      "filename": "Mohamed_Siddiq_El-Minshawi_-_Afghanistan_(محمد_صديق_المنشاوي_-_أفغانستان).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mohamed_Siddiq_El-Minshawi_-_Afghanistan_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D8%AF%D9%8A%D9%82_%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A_-_%D8%A3%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86%29.mp3"
+    },
+    {
+      "id": "mohamed_siddiq_el_minshawi_egypt_1",
+      "name": "محمد صديق المنشاوي - مصر",
+      "en_name": "Mohamed Siddiq El-Minshawi - Egypt 1",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 491,
+      "filename": "Mohamed_Siddiq_El-Minshawi_-_Egypt_1_(محمد_صديق_المنشاوي_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mohamed_Siddiq_El-Minshawi_-_Egypt_1_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D8%AF%D9%8A%D9%82_%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "mohamed_siddiq_el_minshawi_egypt_2",
+      "name": "محمد صديق المنشاوي - مصر",
+      "en_name": "Mohamed Siddiq El-Minshawi - Egypt 2",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 3862,
+      "filename": "Mohamed_Siddiq_El-Minshawi_-_Egypt_2_(محمد_صديق_المنشاوي_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mohamed_Siddiq_El-Minshawi_-_Egypt_2_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D8%AF%D9%8A%D9%82_%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "mohamed_tarek_reciting_azan",
+      "name": "Mohamed Tarek Reciting Azan",
+      "en_name": "Mohamed Tarek Reciting Azan",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2347,
+      "filename": "Mohamed_Tarek_Reciting_Azan.mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mohamed_Tarek_Reciting_Azan.mp3"
+    },
+    {
+      "id": "mohammed_salahuddin_kabbara_1",
+      "name": "محمد صلاح الدين كبارة",
+      "en_name": "Mohammed Salahuddin Kabbara 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 6059,
+      "filename": "Mohammed_Salahuddin_Kabbara_1_(محمد_صلاح_الدين_كبارة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mohammed_Salahuddin_Kabbara_1_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%83%D8%A8%D8%A7%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "mohammed_salahuddin_kabbara_2",
+      "name": "محمد صلاح الدين كبارة",
+      "en_name": "Mohammed Salahuddin Kabbara 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 5680,
+      "filename": "Mohammed_Salahuddin_Kabbara_2_(محمد_صلاح_الدين_كبارة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mohammed_Salahuddin_Kabbara_2_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%83%D8%A8%D8%A7%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "muad_al_qaseme_qatar",
+      "name": "معاذ القاسمي - قطر",
+      "en_name": "Muad Al Qaseme - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 8895,
+      "filename": "Muad_Al_Qaseme_-_Qatar_(معاذ_القاسمي_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muad_Al_Qaseme_-_Qatar_%28%D9%85%D8%B9%D8%A7%D8%B0_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "muhammad_abd_al_hakem",
+      "name": "محمد عبد الحكم",
+      "en_name": "Muhammad Abd Al Hakem",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2116,
+      "filename": "Muhammad_Abd_Al_Hakem_(محمد_عبد_الحكم).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Abd_Al_Hakem_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%83%D9%85%29.mp3"
+    },
+    {
+      "id": "muhammad_abu_al_maqarem",
+      "name": "محمد أبو المقارم",
+      "en_name": "Muhammad Abu Al Maqarem",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1235,
+      "filename": "Muhammad_Abu_Al_Maqarem_(محمد_أبو_المقارم).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Abu_Al_Maqarem_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D9%85%29.mp3"
+    },
+    {
+      "id": "muhammad_adel",
+      "name": "محمد عادل",
+      "en_name": "Muhammad Adel",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1706,
+      "filename": "Muhammad_Adel_(محمد_عادل).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Adel_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D8%A7%D8%AF%D9%84%29.mp3"
+    },
+    {
+      "id": "muhammad_al_damradash",
+      "name": "محمد الدمرداش",
+      "en_name": "Muhammad Al Damradash",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2755,
+      "filename": "Muhammad_Al_Damradash_(محمد_الدمرداش).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Al_Damradash_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AF%D9%85%D8%B1%D8%AF%D8%A7%D8%B4%29.mp3"
+    },
+    {
+      "id": "muhammad_al_kurayne_al_maluke_1",
+      "name": "محمد القرين الملوكي",
+      "en_name": "Muhammad Al Kurayne Al Maluke 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 8087,
+      "filename": "Muhammad_Al_Kurayne_Al_Maluke_1_(محمد_القرين_الملوكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Al_Kurayne_Al_Maluke_1_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_al_kurayne_al_maluke_2",
+      "name": "محمد القرين الملوكي",
+      "en_name": "Muhammad Al Kurayne Al Maluke 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4894,
+      "filename": "Muhammad_Al_Kurayne_Al_Maluke_2_(محمد_القرين_الملوكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Al_Kurayne_Al_Maluke_2_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_al_saed_maher",
+      "name": "محمد السيد ماهر",
+      "en_name": "Muhammad Al Saed Maher",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1481,
+      "filename": "Muhammad_Al_Saed_Maher_(محمد_السيد_ماهر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Al_Saed_Maher_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B3%D9%8A%D8%AF_%D9%85%D8%A7%D9%87%D8%B1%29.mp3"
+    },
+    {
+      "id": "muhammad_al_zahid",
+      "name": "محمد الزاهد",
+      "en_name": "Muhammad Al Zahid",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3791,
+      "filename": "Muhammad_Al_Zahid_(محمد_الزاهد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Al_Zahid_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B2%D8%A7%D9%87%D8%AF%29.mp3"
+    },
+    {
+      "id": "muhammad_ashraf_aawad",
+      "name": "محمد أشرف عوض",
+      "en_name": "Muhammad Ashraf Aawad",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2827,
+      "filename": "Muhammad_Ashraf_Aawad_(محمد_أشرف_عوض).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Ashraf_Aawad_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A3%D8%B4%D8%B1%D9%81_%D8%B9%D9%88%D8%B6%29.mp3"
+    },
+    {
+      "id": "muhammad_ben_mussa",
+      "name": "محمد بن موسى",
+      "en_name": "Muhammad Ben Mussa",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1276,
+      "filename": "Muhammad_Ben_Mussa_(محمد_بن_موسى).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Ben_Mussa_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D9%85%D9%88%D8%B3%D9%89%29.mp3"
+    },
+    {
+      "id": "muhammad_fathe_hantur",
+      "name": "محمد فتحي حنتور",
+      "en_name": "Muhammad Fathe Hantur",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3040,
+      "filename": "Muhammad_Fathe_Hantur_(محمد_فتحي_حنتور).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Fathe_Hantur_%28%D9%85%D8%AD%D9%85%D8%AF_%D9%81%D8%AA%D8%AD%D9%8A_%D8%AD%D9%86%D8%AA%D9%88%D8%B1%29.mp3"
+    },
+    {
+      "id": "muhammad_hamud",
+      "name": "محمد حمود",
+      "en_name": "Muhammad Hamud",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3386,
+      "filename": "Muhammad_Hamud_(محمد_حمود).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Hamud_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%AD%D9%85%D9%88%D8%AF%29.mp3"
+    },
+    {
+      "id": "muhammad_hamud_colombia",
+      "name": "محمد حمود - كولومبيا",
+      "en_name": "Muhammad Hamud - Colombia",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2723,
+      "filename": "Muhammad_Hamud_-_Colombia_(محمد_حمود_-_كولومبيا).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Hamud_-_Colombia_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%AD%D9%85%D9%88%D8%AF_-_%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7%29.mp3"
+    },
+    {
+      "id": "muhammad_hessen_al_shahawe",
+      "name": "محمد حسن الشهاوي",
+      "en_name": "Muhammad Hessen Al Shahawe",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2482,
+      "filename": "Muhammad_Hessen_Al_Shahawe_(محمد_حسن_الشهاوي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Hessen_Al_Shahawe_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D9%88%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_khaleel_raml_al_haram_al_maki",
+      "name": "محمد خليل رمل - الحرم المكي",
+      "en_name": "Muhammad Khaleel Raml - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 375,
+      "filename": "Muhammad_Khaleel_Raml_-_Al_Haram_Al_Maki_(محمد_خليل_رمل_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Khaleel_Raml_-_Al_Haram_Al_Maki_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%AE%D9%84%D9%8A%D9%84_%D8%B1%D9%85%D9%84_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_najee_1",
+      "name": "محمد ناجي",
+      "en_name": "Muhammad Najee 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1651,
+      "filename": "Muhammad_Najee_1_(محمد_ناجي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Najee_1_%28%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_najee_2",
+      "name": "محمد ناجي",
+      "en_name": "Muhammad Najee 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3442,
+      "filename": "Muhammad_Najee_2_(محمد_ناجي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Najee_2_%28%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_najee_3",
+      "name": "محمد ناجي",
+      "en_name": "Muhammad Najee 3",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3201,
+      "filename": "Muhammad_Najee_3_(محمد_ناجي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Najee_3_%28%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%A7%D8%AC%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_nasser_al_dine_al_albane_jordan",
+      "name": "محمد ناصر الدين الألباني - الأردن",
+      "en_name": "Muhammad Nasser Al Dine Al Albane - Jordan",
+      "category": "الأردن",
+      "is_fajr": false,
+      "size_kb": 1247,
+      "filename": "Muhammad_Nasser_Al_Dine_Al_Albane_-_Jordan_(محمد_ناصر_الدين_الألباني_-_الأردن).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Nasser_Al_Dine_Al_Albane_-_Jordan_%28%D9%85%D8%AD%D9%85%D8%AF_%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D9%84%D8%A8%D8%A7%D9%86%D9%8A_-_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%29.mp3"
+    },
+    {
+      "id": "muhammad_ramadan_saad_al_haram_al_maki",
+      "name": "محمد رمضان سعد - الحرم المكي",
+      "en_name": "Muhammad Ramadan Saad - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 3433,
+      "filename": "Muhammad_Ramadan_Saad_-_Al_Haram_Al_Maki_(محمد_رمضان_سعد_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Ramadan_Saad_-_Al_Haram_Al_Maki_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_%D8%B3%D8%B9%D8%AF_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "muhammad_refaat_cairo",
+      "name": "محمد رفعت - القاهرة",
+      "en_name": "Muhammad Refaat - Cairo",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 402,
+      "filename": "Muhammad_Refaat_-_Cairo_(محمد_رفعت_-_القاهرة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammad_Refaat_-_Cairo_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D9%81%D8%B9%D8%AA_-_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9%29.mp3"
+    },
+    {
+      "id": "muhammed_ibrahem_ismael_abd_allah",
+      "name": "محمد إبراهيم إسماعيل عبدالله",
+      "en_name": "Muhammed Ibrahem Ismael Abd Allah",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2843,
+      "filename": "Muhammed_Ibrahem_Ismael_Abd_Allah_(محمد_إبراهيم_إسماعيل_عبدالله).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Muhammed_Ibrahem_Ismael_Abd_Allah_%28%D9%85%D8%AD%D9%85%D8%AF_%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85_%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%29.mp3"
+    },
+    {
+      "id": "mukhtar_abelhamed_hafed",
+      "name": "مختار عبد الحميد حافظ",
+      "en_name": "Mukhtar Abelhamed Hafed",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2918,
+      "filename": "Mukhtar_Abelhamed_Hafed_(مختار_عبد_الحميد_حافظ).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mukhtar_Abelhamed_Hafed_%28%D9%85%D8%AE%D8%AA%D8%A7%D8%B1_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF_%D8%AD%D8%A7%D9%81%D8%B8%29.mp3"
+    },
+    {
+      "id": "mustafa_ismail_egypt",
+      "name": "مصطفى إسماعيل - مصر",
+      "en_name": "Mustafa Ismail - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 723,
+      "filename": "Mustafa_Ismail_-_Egypt_(مصطفى_إسماعيل_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mustafa_Ismail_-_Egypt_%28%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "mustafa_waled",
+      "name": "مصطفى وليد",
+      "en_name": "Mustafa Waled",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 8080,
+      "filename": "Mustafa_Waled_(مصطفى_وليد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Mustafa_Waled_%28%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D9%88%D9%84%D9%8A%D8%AF%29.mp3"
+    },
+    {
+      "id": "najee_qazaz_al_aqsa_jerusalem",
+      "name": "ناجي قزاز - المسجد الأقصى القدس",
+      "en_name": "Najee Qazaz - Al Aqsa Jerusalem",
+      "category": "القدس الشريف",
+      "is_fajr": false,
+      "size_kb": 442,
+      "filename": "Najee_Qazaz_-_Al_Aqsa_Jerusalem_(ناجي_قزاز_-_المسجد_الأقصى_القدس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Najee_Qazaz_-_Al_Aqsa_Jerusalem_%28%D9%86%D8%A7%D8%AC%D9%8A_%D9%82%D8%B2%D8%A7%D8%B2_-_%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89_%D8%A7%D9%84%D9%82%D8%AF%D8%B3%29.mp3"
+    },
+    {
+      "id": "nasreddine_toubar",
+      "name": "نصر الدين طوبار",
+      "en_name": "Nasreddine Toubar",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4132,
+      "filename": "Nasreddine_Toubar_(نصر_الدين_طوبار).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasreddine_Toubar_%28%D9%86%D8%B5%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%B7%D9%88%D8%A8%D8%A7%D8%B1%29.mp3"
+    },
+    {
+      "id": "nasser_al_abd_al_jabar_qatar",
+      "name": "ناصر عبد الجبار - قطر",
+      "en_name": "Nasser Al Abd Al Jabar - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 6705,
+      "filename": "Nasser_Al_Abd_Al_Jabar_-_Qatar_(ناصر_عبد_الجبار_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Abd_Al_Jabar_-_Qatar_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%B1_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "nasser_al_obaid_1",
+      "name": "ناصر العبيد",
+      "en_name": "Nasser Al Obaid 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4698,
+      "filename": "Nasser_Al_Obaid_1_(ناصر_العبيد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Obaid_1_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF%29.mp3"
+    },
+    {
+      "id": "nasser_al_obaid_2",
+      "name": "ناصر العبيد",
+      "en_name": "Nasser Al Obaid 2",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2533,
+      "filename": "Nasser_Al_Obaid_2_(ناصر_العبيد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Obaid_2_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF%29.mp3"
+    },
+    {
+      "id": "nasser_al_obaid_3",
+      "name": "ناصر العبيد",
+      "en_name": "Nasser Al Obaid 3",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3436,
+      "filename": "Nasser_Al_Obaid_3_(ناصر_العبيد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Obaid_3_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D8%B9%D8%A8%D9%8A%D8%AF%29.mp3"
+    },
+    {
+      "id": "nasser_al_qatami_hq",
+      "name": "ناصر القطامي",
+      "en_name": "Nasser Al Qatami - HQ",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 518,
+      "filename": "Nasser_Al_Qatami_-_HQ_(ناصر_القطامي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Qatami_-_HQ_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A%29.mp3"
+    },
+    {
+      "id": "nasser_al_qatami_1_saudi_arabia",
+      "name": "ناصر القطامي - المملكة العربية السعودية",
+      "en_name": "Nasser Al Qatami 1 - Saudi Arabia",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 2068,
+      "filename": "Nasser_Al_Qatami_1_-_Saudi_Arabia_(ناصر_القطامي_-_المملكة_العربية_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Qatami_1_-_Saudi_Arabia_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A_-_%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "nasser_al_qatami_2_riyadh",
+      "name": "ناصر القطامي - الرياض",
+      "en_name": "Nasser Al Qatami 2 - Riyadh",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 2126,
+      "filename": "Nasser_Al_Qatami_2_-_Riyadh_(ناصر_القطامي_-_الرياض).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nasser_Al_Qatami_2_-_Riyadh_%28%D9%86%D8%A7%D8%B5%D8%B1_%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A_-_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%29.mp3"
+    },
+    {
+      "id": "nayf_fedah_al_haram_al_maki",
+      "name": "نايف فداح - الحرم المكي",
+      "en_name": "Nayf Fedah - Al Haram Al Maki",
+      "category": "مكة المكرمة",
+      "is_fajr": false,
+      "size_kb": 411,
+      "filename": "Nayf_Fedah_-_Al_Haram_Al_Maki_(نايف_فداح_-_الحرم_المكي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Nayf_Fedah_-_Al_Haram_Al_Maki_%28%D9%86%D8%A7%D9%8A%D9%81_%D9%81%D8%AF%D8%A7%D8%AD_-_%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A%29.mp3"
+    },
+    {
+      "id": "nurdin_hamza_al_maghriby_al_aqsa_jerusalem",
+      "name": "نور الدين حمزة المغربي - المسجد الأقصى القدس",
+      "en_name": "NurDin Hamza Al Maghriby - Al Aqsa Jerusalem",
+      "category": "القدس الشريف",
+      "is_fajr": false,
+      "size_kb": 362,
+      "filename": "NurDin_Hamza_Al_Maghriby_-_Al_Aqsa_Jerusalem_(نور_الدين_حمزة_المغربي_-_المسجد_الأقصى_القدس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/NurDin_Hamza_Al_Maghriby_-_Al_Aqsa_Jerusalem_%28%D9%86%D9%88%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%AD%D9%85%D8%B2%D8%A9_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A_-_%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89_%D8%A7%D9%84%D9%82%D8%AF%D8%B3%29.mp3"
+    },
+    {
+      "id": "omar_al_kazabri",
+      "name": "عمر القزابري",
+      "en_name": "Omar Al Kazabri",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1853,
+      "filename": "Omar_Al_Kazabri_(عمر_القزابري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Omar_Al_Kazabri_%28%D8%B9%D9%85%D8%B1_%D8%A7%D9%84%D9%82%D8%B2%D8%A7%D8%A8%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "omar_al_omayr",
+      "name": "عمر العمير",
+      "en_name": "Omar Al Omayr",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 597,
+      "filename": "Omar_Al_Omayr_(عمر_العمير).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Omar_Al_Omayr_%28%D8%B9%D9%85%D8%B1_%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%29.mp3"
+    },
+    {
+      "id": "omran_mansur_egypt",
+      "name": "عمران منصور - مصر",
+      "en_name": "Omran Mansur - Egypt",
+      "category": "مصر",
+      "is_fajr": false,
+      "size_kb": 639,
+      "filename": "Omran_Mansur_-_Egypt_(عمران_منصور_-_مصر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Omran_Mansur_-_Egypt_%28%D8%B9%D9%85%D8%B1%D8%A7%D9%86_%D9%85%D9%86%D8%B5%D9%88%D8%B1_-_%D9%85%D8%B5%D8%B1%29.mp3"
+    },
+    {
+      "id": "omru_sobhe",
+      "name": "عمرو صبحي",
+      "en_name": "Omru Sobhe",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3237,
+      "filename": "Omru_Sobhe_(عمرو_صبحي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Omru_Sobhe_%28%D8%B9%D9%85%D8%B1%D9%88_%D8%B5%D8%A8%D8%AD%D9%8A%29.mp3"
+    },
+    {
+      "id": "othman_al_masseme",
+      "name": "عثمان المسعمي",
+      "en_name": "Othman Al Masseme",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2745,
+      "filename": "Othman_Al_Masseme_(عثمان_المسعمي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Othman_Al_Masseme_%28%D8%B9%D8%AB%D9%85%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%B9%D9%85%D9%8A%29.mp3"
+    },
+    {
+      "id": "rabee_abdul_raheem_essa",
+      "name": "ربيع عبد الرحيم عيسى",
+      "en_name": "Rabee Abdul Raheem Essa",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3574,
+      "filename": "Rabee_Abdul_Raheem_Essa_(ربيع_عبد_الرحيم_عيسى).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Rabee_Abdul_Raheem_Essa_%28%D8%B1%D8%A8%D9%8A%D8%B9_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85_%D8%B9%D9%8A%D8%B3%D9%89%29.mp3"
+    },
+    {
+      "id": "rabeh_ibn_darah_al_jazairi",
+      "name": "رابح بن دراح الجزائري",
+      "en_name": "Rabeh Ibn Darah Al Jazairi",
+      "category": "الجزائر",
+      "is_fajr": false,
+      "size_kb": 4077,
+      "filename": "Rabeh_Ibn_Darah_Al_Jazairi_(رابح_بن_دراح_الجزائري).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Rabeh_Ibn_Darah_Al_Jazairi_%28%D8%B1%D8%A7%D8%A8%D8%AD_%D8%A8%D9%86_%D8%AF%D8%B1%D8%A7%D8%AD_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%29.mp3"
+    },
+    {
+      "id": "riad_al_djazairi_algeria",
+      "name": "رياض الجزائري - الجزائر",
+      "en_name": "Riad Al Djazairi - Algeria",
+      "category": "الجزائر",
+      "is_fajr": false,
+      "size_kb": 2818,
+      "filename": "Riad_Al_Djazairi_-_Algeria_(رياض_الجزائري_-_الجزائر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Riad_Al_Djazairi_-_Algeria_%28%D8%B1%D9%8A%D8%A7%D8%B6_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A_-_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%29.mp3"
+    },
+    {
+      "id": "saheb_hane_khatab_palestine",
+      "name": "صاحب هاني خطاب - فلسطين",
+      "en_name": "Saheb Hane Khatab - Palestine",
+      "category": "القدس الشريف",
+      "is_fajr": false,
+      "size_kb": 719,
+      "filename": "Saheb_Hane_Khatab_-_Palestine_(صاحب_هاني_خطاب_-_فلسطين).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Saheb_Hane_Khatab_-_Palestine_%28%D8%B5%D8%A7%D8%AD%D8%A8_%D9%87%D8%A7%D9%86%D9%8A_%D8%AE%D8%B7%D8%A7%D8%A8_-_%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%29.mp3"
+    },
+    {
+      "id": "saleh_al_nabet_qatar",
+      "name": "صالح النابت - قطر",
+      "en_name": "Saleh Al Nabet - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 7473,
+      "filename": "Saleh_Al_Nabet_-_Qatar_(صالح_النابت_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Saleh_Al_Nabet_-_Qatar_%28%D8%B5%D8%A7%D9%84%D8%AD_%D8%A7%D9%84%D9%86%D8%A7%D8%A8%D8%AA_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "salem_hamde",
+      "name": "سالم حمدة",
+      "en_name": "Salem Hamde",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1025,
+      "filename": "Salem_Hamde_(سالم_حمدة).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Salem_Hamde_%28%D8%B3%D8%A7%D9%84%D9%85_%D8%AD%D9%85%D8%AF%D8%A9%29.mp3"
+    },
+    {
+      "id": "samer_al_sagher",
+      "name": "سامر الصغير",
+      "en_name": "Samer Al Sagher",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2969,
+      "filename": "Samer_Al_Sagher_(سامر_الصغير).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Samer_Al_Sagher_%28%D8%B3%D8%A7%D9%85%D8%B1_%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%29.mp3"
+    },
+    {
+      "id": "sheikh_al_naqshbandi",
+      "name": "الشيخ النقشبندى",
+      "en_name": "Sheikh Al Naqshbandi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2168,
+      "filename": "Sheikh_Al_Naqshbandi_(الشيخ_النقشبندى).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Sheikh_Al_Naqshbandi_%28%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%A7%D9%84%D9%86%D9%82%D8%B4%D8%A8%D9%86%D8%AF%D9%89%29.mp3"
+    },
+    {
+      "id": "sheikh_tariq_muhammad",
+      "name": "الشيخ طارق محمد",
+      "en_name": "Sheikh Tariq Muhammad",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 10159,
+      "filename": "Sheikh_Tariq_Muhammad_(الشيخ_طارق_محمد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Sheikh_Tariq_Muhammad_%28%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%B7%D8%A7%D8%B1%D9%82_%D9%85%D8%AD%D9%85%D8%AF%29.mp3"
+    },
+    {
+      "id": "taha_al_junayd",
+      "name": "طه الجنيد",
+      "en_name": "Taha Al Junayd",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3554,
+      "filename": "Taha_Al_Junayd_(طه_الجنيد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Taha_Al_Junayd_%28%D8%B7%D9%87_%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF%29.mp3"
+    },
+    {
+      "id": "taleb_al_qanube",
+      "name": "طالب القنوبي",
+      "en_name": "Taleb Al Qanube",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2945,
+      "filename": "Taleb_Al_Qanube_(طالب_القنوبي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Taleb_Al_Qanube_%28%D8%B7%D8%A7%D9%84%D8%A8_%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A8%D9%8A%29.mp3"
+    },
+    {
+      "id": "tamer_islam",
+      "name": "تامر إسلام",
+      "en_name": "Tamer Islam",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 4282,
+      "filename": "Tamer_Islam_(تامر_إسلام).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Tamer_Islam_%28%D8%AA%D8%A7%D9%85%D8%B1_%D8%A5%D8%B3%D9%84%D8%A7%D9%85%29.mp3"
+    },
+    {
+      "id": "tareq_fathe_ahmad",
+      "name": "طارق فتح أحمد",
+      "en_name": "Tareq Fathe Ahmad",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 2568,
+      "filename": "Tareq_Fathe_Ahmad_(طارق_فتح_أحمد).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Tareq_Fathe_Ahmad_%28%D8%B7%D8%A7%D8%B1%D9%82_%D9%81%D8%AA%D8%AD_%D8%A3%D8%AD%D9%85%D8%AF%29.mp3"
+    },
+    {
+      "id": "wadi_al_yamani",
+      "name": "وديع اليمني",
+      "en_name": "Wadi Al Yamani",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3129,
+      "filename": "Wadi_Al_Yamani_(وديع_اليمني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Wadi_Al_Yamani_%28%D9%88%D8%AF%D9%8A%D8%B9_%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "wadi_hamad_al_yamani",
+      "name": "وادي حمد اليماني",
+      "en_name": "Wadi Hamad Al-Yamani",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 3131,
+      "filename": "Wadi_Hamad_Al-Yamani_(وادي_حمد_اليماني).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Wadi_Hamad_Al-Yamani_%28%D9%88%D8%A7%D8%AF%D9%8A_%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%29.mp3"
+    },
+    {
+      "id": "waled_mahsas_1",
+      "name": "وليد محساس",
+      "en_name": "Waled Mahsas 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 8459,
+      "filename": "Waled_Mahsas_1_(وليد_محساس).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Waled_Mahsas_1_%28%D9%88%D9%84%D9%8A%D8%AF_%D9%85%D8%AD%D8%B3%D8%A7%D8%B3%29.mp3"
+    },
+    {
+      "id": "waled_mahsas_2_algeria",
+      "name": "وليد محساس - الجزائر",
+      "en_name": "Waled Mahsas 2 - Algeria",
+      "category": "الجزائر",
+      "is_fajr": false,
+      "size_kb": 1811,
+      "filename": "Waled_Mahsas_2_-_Algeria_(وليد_محساس_-_الجزائر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Waled_Mahsas_2_-_Algeria_%28%D9%88%D9%84%D9%8A%D8%AF_%D9%85%D8%AD%D8%B3%D8%A7%D8%B3_-_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%29.mp3"
+    },
+    {
+      "id": "yaseen_al_aassaf_1",
+      "name": "ياسين الأسف",
+      "en_name": "Yaseen Al Aassaf 1",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1350,
+      "filename": "Yaseen_Al_Aassaf_1_(ياسين_الأسف).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Yaseen_Al_Aassaf_1_%28%D9%8A%D8%A7%D8%B3%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%B3%D9%81%29.mp3"
+    },
+    {
+      "id": "yaseen_al_aassaf_2_fajr_iraq",
+      "name": "ياسين الأسف - فجر العراق",
+      "en_name": "Yaseen Al Aassaf 2 - Fajr Iraq",
+      "category": "العراق",
+      "is_fajr": true,
+      "size_kb": 5045,
+      "filename": "Yaseen_Al_Aassaf_2_-_Fajr_Iraq_(ياسين_الأسف_-_فجر_العراق).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Yaseen_Al_Aassaf_2_-_Fajr_Iraq_%28%D9%8A%D8%A7%D8%B3%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%B3%D9%81_-_%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%29.mp3"
+    },
+    {
+      "id": "yasser_abdu_allah_al_hawre_qatar",
+      "name": "ياسر عبدالله الهوري - قطر",
+      "en_name": "Yasser Abdu Allah Al Hawre - Qatar",
+      "category": "قطر",
+      "is_fajr": false,
+      "size_kb": 3792,
+      "filename": "Yasser_Abdu_Allah_Al_Hawre_-_Qatar_(ياسر_عبدالله_الهوري_-_قطر).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Yasser_Abdu_Allah_Al_Hawre_-_Qatar_%28%D9%8A%D8%A7%D8%B3%D8%B1_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%87%D9%88%D8%B1%D9%8A_-_%D9%82%D8%B7%D8%B1%29.mp3"
+    },
+    {
+      "id": "yasser_al_dosari_saudi_arabia",
+      "name": "ياسر الدوسري - المملكة العربية السعودية",
+      "en_name": "Yasser Al-Dosari - Saudi Arabia",
+      "category": "السعودية",
+      "is_fajr": false,
+      "size_kb": 1429,
+      "filename": "Yasser_Al-Dosari_-_Saudi_Arabia_(ياسر_الدوسري_-_المملكة_العربية_السعودية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Yasser_Al-Dosari_-_Saudi_Arabia_%28%D9%8A%D8%A7%D8%B3%D8%B1_%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A_-_%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29.mp3"
+    },
+    {
+      "id": "yasser_al_filkawi",
+      "name": "ياسر الفيلكاوي",
+      "en_name": "Yasser Al Filkawi",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 844,
+      "filename": "Yasser_Al_Filkawi_(ياسر_الفيلكاوي).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Yasser_Al_Filkawi_%28%D9%8A%D8%A7%D8%B3%D8%B1_%D8%A7%D9%84%D9%81%D9%8A%D9%84%D9%83%D8%A7%D9%88%D9%8A%29.mp3"
+    },
+    {
+      "id": "zaher_muhammad_taresh",
+      "name": "زاهر محمد طريش",
+      "en_name": "Zaher Muhammad Taresh",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 361,
+      "filename": "Zaher_Muhammad_Taresh_(زاهر_محمد_طريش).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Zaher_Muhammad_Taresh_%28%D8%B2%D8%A7%D9%87%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%B7%D8%B1%D9%8A%D8%B4%29.mp3"
+    },
+    {
+      "id": "zayd_al_aatya",
+      "name": "زيد العاطية",
+      "en_name": "Zayd Al Aatya",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 1402,
+      "filename": "Zayd_Al_Aatya_(زيد_العاطية).mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Zayd_Al_Aatya_%28%D8%B2%D9%8A%D8%AF_%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A%D8%A9%29.mp3"
+    }
+  ]
+}

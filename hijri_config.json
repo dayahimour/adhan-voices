@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "last_updated": "2026-08-21",
+  "global_adjustment": 0,
+  "country_adjustments": {
+    "DZ": 0,
+    "MA": 0,
+    "EG": 0,
+    "SA": 0,
+    "TN": 0,
+    "AE": 0,
+    "QA": 0,
+    "KW": 0,
+    "OM": 0,
+    "JO": 0,
+    "PS": 0,
+    "LB": 0,
+    "SY": 0,
+    "IQ": 0,
+    "YE": 0,
+    "SD": 0,
+    "LY": 0,
+    "MR": 0,
+    "TR": 0,
+    "FR": 0,
+    "GB": 0,
+    "DE": 0,
+    "CA": 0,
+    "US": 0
+  },
+  "announcements": [
+    {
+      "id": "ramadan_1447",
+      "target_countries": ["ALL"],
+      "start_date": "2026-02-18",
+      "end_date": "2026-03-20",
+      "title": "ثبوت رؤية هلال شهر رمضان المبارك 🌙",
+      "message": "مبارك عليكم شهر القرآن والرحمة، تقبل الله منا ومنكم الصيام والقيام.",
+      "send_push_notification": true
+    },
+    {
+      "id": "eid_fitr_1447",
+      "target_countries": ["ALL"],
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-23",
+      "title": "عيد فطر مبارك وكل عام وأنتم بخير 🎉",
+      "message": "تقبل الله طاعاتكم وصالح أعمالكم، أعاده الله علينا وعليكم بالخير واليمن والبركات.",
+      "send_push_notification": true
+    },
+    {
+      "id": "eid_adha_1447",
+      "target_countries": ["ALL"],
+      "start_date": "2026-05-27",
+      "end_date": "2026-05-31",
+      "title": "عيد أضحى مبارك 🐑🕋",
+      "message": "تقبل الله منا ومنكم صالح الأعمال وحجاً مبروراً وسعياً مشكوراً لضيوف الرحمن.",
+      "send_push_notification": true
+    }
+  ]
+}

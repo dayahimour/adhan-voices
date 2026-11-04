@@ -1,8 +1,18 @@
 {
   "version": "2.0.0",
-  "total_voices": 129,
+  "total_voices": 130,
   "quality": "Studio & Master Crystal HQ (64-320 kbps)",
   "voices": [
+    {
+      "id": "takbeeratan_madinah",
+      "name": "تكبيرتان فقط — تنبيه قصير (٨ ثوانٍ)",
+      "en_name": "Two Takbirs Only - Short Alert",
+      "category": "عام",
+      "is_fajr": false,
+      "size_kb": 121,
+      "filename": "Takbeeratan_Madinah.mp3",
+      "url": "https://raw.githubusercontent.com/dayahimour/adhan-voices/main/Takbeeratan_Madinah.mp3"
+    },
     {
       "id": "ali_ibn_ahmad_mala_hq",
       "name": "علي بن أحمد ملا (شيخ مؤذني المسجد الحرام)",

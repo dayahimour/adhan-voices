@@ -1,0 +1,262 @@
+{
+ "version": 1,
+ "voice": "Rawi (ElevenLabs eleven_v4)",
+ "lang": {
+  "ar": {
+   "files": {
+    "pre_fajr_5": {
+     "size": 25567,
+     "sha1": "a83cc90ead614f4e7f73e0f3dcc5b9d755e43957"
+    },
+    "pre_fajr_10": {
+     "size": 25123,
+     "sha1": "fa68796eec2387a65229b0ea23f0731fca33b5c5"
+    },
+    "pre_fajr_15": {
+     "size": 24262,
+     "sha1": "67b4e00e1b07f249b421e27eafda039157ea5e88"
+    },
+    "pre_fajr_20": {
+     "size": 26610,
+     "sha1": "9b16ef9d26303f1171518818c93e378884ef9a02"
+    },
+    "pre_fajr_30": {
+     "size": 24027,
+     "sha1": "2ea1414e84c6da722faf8642b01284cf08b74201"
+    },
+    "soon_fajr": {
+     "size": 17836,
+     "sha1": "57a444cb2405bb399f817d6da71d6024d9fa0aac"
+    },
+    "now_fajr": {
+     "size": 20250,
+     "sha1": "68aa94f218c88e6935c2bc8bd19b2409fffa3405"
+    },
+    "pre_dhuhr_5": {
+     "size": 24925,
+     "sha1": "31022d505f501f4473a772521207ac714b79211a"
+    },
+    "pre_dhuhr_10": {
+     "size": 23040,
+     "sha1": "035378372a41510147a81724978a54a9a7948cac"
+    },
+    "pre_dhuhr_15": {
+     "size": 21985,
+     "sha1": "f8fd2052d6a970d622c4492fe58b7fddcf6a162a"
+    },
+    "pre_dhuhr_20": {
+     "size": 25791,
+     "sha1": "41028eed89c2c16f4cbcfcd588d8c25a1dc97df9"
+    },
+    "pre_dhuhr_30": {
+     "size": 22269,
+     "sha1": "b7eb7bc79052d98ce78bbfc2459083904397fa36"
+    },
+    "soon_dhuhr": {
+     "size": 18204,
+     "sha1": "4a25bed1a79c3c84f93706d91d0cd2104410cf28"
+    },
+    "now_dhuhr": {
+     "size": 19584,
+     "sha1": "e619a9054331e2b31806411ef0f271832831b2b8"
+    },
+    "pre_jumuah_5": {
+     "size": 25389,
+     "sha1": "b5ab019dca8b56fd281f6297c2ae27c731183d8c"
+    },
+    "pre_jumuah_10": {
+     "size": 25186,
+     "sha1": "a095666405b5dc783e5bbba766b1d7236c989020"
+    },
+    "pre_jumuah_15": {
+     "size": 23205,
+     "sha1": "4b72a54df9e0f9d2cb3322afb48e66c94c11f55f"
+    },
+    "pre_jumuah_20": {
+     "size": 27006,
+     "sha1": "5ec0880600f5404a37b2488066c3f12dfaecfbbf"
+    },
+    "pre_jumuah_30": {
+     "size": 23929,
+     "sha1": "b812f836e2ee683e03195dc148c1cdc48119aed2"
+    },
+    "soon_jumuah": {
+     "size": 17924,
+     "sha1": "534283728be4c8872553131d00e23b63c87cd766"
+    },
+    "now_jumuah": {
+     "size": 20761,
+     "sha1": "b55dad160e11f27b3165afbb7a01dfecea4c41a7"
+    },
+    "pre_asr_5": {
+     "size": 23603,
+     "sha1": "9cb90279d3f7723ca30c60cfa20ea86f2acef818"
+    },
+    "pre_asr_10": {
+     "size": 24465,
+     "sha1": "d83dff66404d8b42e9dad9b94b54dc6d1b32a621"
+    },
+    "pre_asr_15": {
+     "size": 23519,
+     "sha1": "a83480da928da12f938ff35fbcce0debf5d61d29"
+    },
+    "pre_asr_20": {
+     "size": 27252,
+     "sha1": "2e08d9fd05eccf67fda85a32110aee2debf41919"
+    },
+    "pre_asr_30": {
+     "size": 24640,
+     "sha1": "c9c8089797b36487561aa88aea6622a838f2a3f4"
+    },
+    "soon_asr": {
+     "size": 18970,
+     "sha1": "6ee21eff81e6e9130e68bae953b83d4f8232e793"
+    },
+    "now_asr": {
+     "size": 20106,
+     "sha1": "556cb68211602a721bb42c98bf29586f7f44108b"
+    },
+    "pre_maghrib_5": {
+     "size": 24990,
+     "sha1": "491f85c5a5aea97e5a7fa71b2fe8b349ab5c57c7"
+    },
+    "pre_maghrib_10": {
+     "size": 25840,
+     "sha1": "0738c3d8acaa5d4bfa33b985a699d5844586c376"
+    },
+    "pre_maghrib_15": {
+     "size": 24196,
+     "sha1": "e23cd324f82c4ec2a9236bd2d37b949c23d74792"
+    },
+    "pre_maghrib_20": {
+     "size": 27935,
+     "sha1": "545dfce135aae7ce5eda735cfbf164972627626e"
+    },
+    "pre_maghrib_30": {
+     "size": 25196,
+     "sha1": "dc1ef18f74e13da3d5258ddabae9a762e312181b"
+    },
+    "soon_maghrib": {
+     "size": 18265,
+     "sha1": "488a72538aa5b5525078638a2b808b0b57437eee"
+    },
+    "now_maghrib": {
+     "size": 20390,
+     "sha1": "11049ed11c76e3b96550ed916e0c29a6c702f841"
+    },
+    "pre_isha_5": {
+     "size": 23071,
+     "sha1": "2b2586c0256777aba64831c3f84f2c751d8c323c"
+    },
+    "pre_isha_10": {
+     "size": 27644,
+     "sha1": "840a57f75b7313fdc472ec9f58cfd302a555127f"
+    },
+    "pre_isha_15": {
+     "size": 23937,
+     "sha1": "f3e34103075e271a47122023c5f34bae1323b5cf"
+    },
+    "pre_isha_20": {
+     "size": 27827,
+     "sha1": "656ad470752abd00f559c1e715e3d93fb25de747"
+    },
+    "pre_isha_30": {
+     "size": 23536,
+     "sha1": "e5cf19cd6e1055bb10ed46df73e872eab1cef4f6"
+    },
+    "soon_isha": {
+     "size": 17187,
+     "sha1": "d227357942cb6c87aa7a23dae758d1cbed553ba2"
+    },
+    "now_isha": {
+     "size": 20210,
+     "sha1": "f919190f30a6785f2f10aeef3fcda09009340c2a"
+    },
+    "imsak": {
+     "size": 27119,
+     "sha1": "d61b1e6cf2e1c9e024c9beb3a4adc7cdc614aced"
+    },
+    "athkar_morning": {
+     "size": 17125,
+     "sha1": "df38c9ae4e7067c4fc12f3a98aed3d1da3cb14e6"
+    },
+    "athkar_evening": {
+     "size": 16966,
+     "sha1": "fa4dd160246158d30a5dedea4ccd3b120b1305a1"
+    },
+    "kahf": {
+     "size": 26848,
+     "sha1": "16f54425e6da5389eab6d19e17166bf7742655f1"
+    },
+    "friday_sunan": {
+     "size": 26207,
+     "sha1": "e3f5713a3e1c858bb835f8911b5a6f10b4026a8b"
+    },
+    "khatma": {
+     "size": 24417,
+     "sha1": "b6e9913e7b40e22746515a82da810b7b12c47867"
+    },
+    "mawlid": {
+     "size": 43736,
+     "sha1": "cefa8caf8cce587db5e4449788ee6d049573c991"
+    },
+    "eid_fitr": {
+     "size": 30678,
+     "sha1": "cddba35c6260f93fcbea7adaace6ab7ea6f9b841"
+    },
+    "eid_adha": {
+     "size": 31285,
+     "sha1": "50dc5746413b611daae906f48c38c98c9950bfcd"
+    },
+    "fasting_monday": {
+     "size": 27069,
+     "sha1": "70f55dc3a67327b578af27763c2c193b6dfcfb38"
+    },
+    "fasting_thursday": {
+     "size": 28122,
+     "sha1": "58b1c75ab4f245b15b3f8a3a6fcb8a0f8a7d18e1"
+    },
+    "fasting_white_days": {
+     "size": 29690,
+     "sha1": "9b2aa58eea07f3e375689a9337925453ffafa25f"
+    },
+    "fasting_arafah": {
+     "size": 25513,
+     "sha1": "0daab01f50d5ddb1f9793b76492d7859e2c07950"
+    },
+    "fasting_tasua": {
+     "size": 28838,
+     "sha1": "be61026cc19e9e63d0c5b0730049b72653b5b1d3"
+    },
+    "fasting_ashura": {
+     "size": 28505,
+     "sha1": "3a3f50ee5be822814545726d9d731711bfd6c78e"
+    },
+    "fasting_shawwal": {
+     "size": 29683,
+     "sha1": "3c4a7599c290a8869c8ea46d4af63f715cdc7235"
+    },
+    "fasting_dhulhijjah": {
+     "size": 26113,
+     "sha1": "ceb37242841ed38382187e5598544b72396bfa29"
+    },
+    "fasting_generic": {
+     "size": 28703,
+     "sha1": "d1c18ff74a61c729dacd346175991908dc0da5a2"
+    },
+    "salawat_1": {
+     "size": 10944,
+     "sha1": "c70732d25c68952f30c7f1e1c71b251a7761dd16"
+    },
+    "salawat_2": {
+     "size": 27551,
+     "sha1": "8f8eae0aa27ddce1bbc9dae70fbdf5298657e6aa"
+    },
+    "salawat_3": {
+     "size": 27107,
+     "sha1": "764d41f6b05678ec29de8f839675f05f5d903c15"
+    }
+   }
+  }
+ }
+}
